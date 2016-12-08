@@ -1,61 +1,61 @@
-.md h6+h6+h6+table tbody tr:nth-child(1) {
+.md h6 + h6 + h6 + table tbody tr:nth-child(1) {
     background-position: 0 -154px
 }
 
-.md h6+h6+h6+table tbody tr:nth-child(2) {
+.md h6 + h6 + h6 + table tbody tr:nth-child(2) {
     background-position: 0 -124px
 }
 
-.md h6+h6+h6+table tbody tr:nth-child(3) {
+.md h6 + h6 + h6 + table tbody tr:nth-child(3) {
     background-position: 0 -154px
 }
 
-.md h6+h6+h6+table tbody tr:nth-child(4) {
+.md h6 + h6 + h6 + table tbody tr:nth-child(4) {
     background-position: 0 -154px
 }
 
-.md h6+h6+h6+table tbody tr:nth-child(5) {
+.md h6 + h6 + h6 + table tbody tr:nth-child(5) {
     background-position: 0 -154px
 }
 
-.md h6+h6+h6+table tbody tr:nth-child(6) {
+.md h6 + h6 + h6 + table tbody tr:nth-child(6) {
     background-position: 0 -154px
 }
 
-.md h6+h6+h6+table tbody tr:nth-child(7) {
+.md h6 + h6 + h6 + table tbody tr:nth-child(7) {
     background-position: 0 -124px
 }
 
-.md h6+h6+h6+table tbody tr:nth-child(8) {
+.md h6 + h6 + h6 + table tbody tr:nth-child(8) {
     background-position: 0 -124px
 }
 
-.md h6+h6+h6+table tbody tr:nth-child(9) {
+.md h6 + h6 + h6 + table tbody tr:nth-child(9) {
     background-position: 0 -124px
 }
 
-.md h6+h6+h6+table tbody tr:nth-child(10) {
+.md h6 + h6 + h6 + table tbody tr:nth-child(10) {
     background-position: 0 -154px
 }
 
-.md h6+h6+h6+table tbody tr:nth-child(11) {
+.md h6 + h6 + h6 + table tbody tr:nth-child(11) {
     background-position: 0 -124px
 }
 
-.md h6+h6+h6+table tbody tr:nth-child(12) {
+.md h6 + h6 + h6 + table tbody tr:nth-child(12) {
     background-position: 0 -154px
 }
 
-.md h6+h6+h6+table tbody tr:nth-child(13) {
+.md h6 + h6 + h6 + table tbody tr:nth-child(13) {
     background-position: 0 -154px
 }
 
-html,.res-nightmode html {
+html, .res-nightmode html {
     background: #111113 url("//b.thumbs.redditmedia.com/Fv3Uif1I7Kt5Cq1dIJcdlMtPE2Ur9JVwkYOjcdL8QBY.png") center 19px no-repeat
 }
 
 body {
-    margin: 269px 40px!important;
+    margin: 269px 40px !important;
     background: #f6f6f6
 }
 
@@ -72,17 +72,17 @@ body {
 }
 
 #sr-header-area {
-    display: block!important;
+    display: block !important;
     top: 0;
     left: 0;
     right: 0;
     margin: 0;
     border-bottom: none;
-    width: 100%!important
+    width: 100% !important
 }
 
 #header-bottom-left {
-    position: absolute!important;
+    position: absolute !important;
     top: 269px;
     left: 40px;
     right: 10px;
@@ -92,7 +92,7 @@ body {
     border-bottom: 1px solid #008ece
 }
 
-a#header-img.default-header,a#header-img-a {
+a#header-img.default-header, a#header-img-a {
     background: url("//b.thumbs.redditmedia.com/wxLwlHXt03G8kbTuSxEMBPkeXT35_K0vMqGbbRE7XkU.png");
     display: inline-block;
     width: 36px;
@@ -103,7 +103,7 @@ a#header-img.default-header,a#header-img-a {
     opacity: .5
 }
 
-a#header-img.default-header:hover,a#header-img-a:hover {
+a#header-img.default-header:hover, a#header-img-a:hover {
     opacity: 1
 }
 
@@ -154,14 +154,14 @@ a#header-img.default-header:hover,a#header-img-a:hover {
 #header-bottom-right {
     font-size: 11px;
     position: absolute;
-    top: 275px!important;
+    top: 275px !important;
     right: 40px;
-    bottom: 0!important;
-    padding: 0 10px 0 0!important;
-    max-height: 36px!important;
+    bottom: 0 !important;
+    padding: 0 10px 0 0 !important;
+    max-height: 36px !important;
     background: #fff;
     line-height: 36px;
-    border-radius: 0!important
+    border-radius: 0 !important
 }
 
 #header-bottom-right span.separator {
@@ -184,30 +184,30 @@ a#header-img.default-header:hover,a#header-img-a:hover {
 }
 
 #userbarToggle {
-    display: none!important
+    display: none !important
 }
 
 span.userkarma {
-    border-bottom: none!important
+    border-bottom: none !important
 }
 
 span.userkarma a {
-    font-weight: normal!important;
-    color: #585858!important
+    font-weight: normal !important;
+    color: #585858 !important
 }
 
-#RESAccountSwitcherIcon,a#mail,a#modmail,a.pref-lang,.gearIcon,form.logout a {
-    width: 16px!important;
-    height: 16px!important;
-    background-image: url("//b.thumbs.redditmedia.com/wxLwlHXt03G8kbTuSxEMBPkeXT35_K0vMqGbbRE7XkU.png")!important;
+#RESAccountSwitcherIcon, a#mail, a#modmail, a.pref-lang, .gearIcon, form.logout a {
+    width: 16px !important;
+    height: 16px !important;
+    background-image: url("//b.thumbs.redditmedia.com/wxLwlHXt03G8kbTuSxEMBPkeXT35_K0vMqGbbRE7XkU.png") !important;
     background-repeat: no-repeat;
-    vertical-align: top!important;
+    vertical-align: top !important;
     opacity: .5;
     transition: opacity .2s ease-in-out
 }
 
 #RESAccountSwitcherIcon {
-    background-position: 0 -45px!important;
+    background-position: 0 -45px !important;
     margin: 10px 0 0 4px
 }
 
@@ -224,7 +224,7 @@ a#mail.havemail {
 }
 
 a#modmail {
-    top: 10px!important
+    top: 10px !important
 }
 
 a#modmail.nohavemail {
@@ -239,25 +239,25 @@ a.pref-lang {
     background-position: 0 -109px
 }
 
-.gearIcon,.gearIcon.newNotification {
-    background-position: 0 -132px!important
+.gearIcon, .gearIcon.newNotification {
+    background-position: 0 -132px !important
 }
 
 .gearIcon {
-    margin: 10px 0!important
+    margin: 10px 0 !important
 }
 
 form.logout a {
     background-position: 0 -153px
 }
 
-a.pref-lang,form.logout a {
+a.pref-lang, form.logout a {
     display: inline-block;
     margin-top: 10px;
     text-indent: -9999px
 }
 
-#RESAccountSwitcherIcon:hover,a#mail:hover,a#modmail:hover,a.pref-lang:hover,.gearIcon:hover,form.logout a:hover {
+#RESAccountSwitcherIcon:hover, a#mail:hover, a#modmail:hover, a.pref-lang:hover, .gearIcon:hover, form.logout a:hover {
     opacity: 1
 }
 
@@ -270,7 +270,7 @@ a.pref-lang,form.logout a {
 }
 
 .content .spacer {
-    margin-bottom: 0!important
+    margin-bottom: 0 !important
 }
 
 .content .linklisting .thing {
@@ -283,7 +283,7 @@ a.pref-lang,form.logout a {
     border-bottom: 1px solid #e1e1e1
 }
 
-.link:hover,.link.stickied {
+.link:hover, .link.stickied {
     background: #fafafa
 }
 
@@ -301,19 +301,19 @@ a.pref-lang,form.logout a {
     border-left: 2px solid #008ece
 }
 
-body>.content .link .rank,.rank-spacer {
+body > .content .link .rank, .rank-spacer {
     display: none
 }
 
 .link .midcol {
     margin: 15px 20px 10px 15px;
-    width: 30px!important;
+    width: 30px !important;
     min-height: 40px
 }
 
 .thumbnail {
-    margin-top: 15px!important;
-    margin-right: 10px!important
+    margin-top: 15px !important;
+    margin-right: 10px !important
 }
 
 .arrow {
@@ -323,41 +323,41 @@ body>.content .link .rank,.rank-spacer {
     padding: 2px;
     margin: 0 auto;
     cursor: pointer;
-    background-image: url("//b.thumbs.redditmedia.com/B4oso0NuYpHoOBw3rF1fWnabeOMbmZQHpUJlc8xq6UA.png")!important;
-    background-position: 0 0!important;
-    background-repeat: no-repeat!important;
+    background-image: url("//b.thumbs.redditmedia.com/B4oso0NuYpHoOBw3rF1fWnabeOMbmZQHpUJlc8xq6UA.png") !important;
+    background-position: 0 0 !important;
+    background-repeat: no-repeat !important;
     outline: none
 }
 
 .arrow.up {
-    background-position: -87px 0!important
+    background-position: -87px 0 !important
 }
 
 .arrow.upmod {
-    background-position: -107px 0!important
+    background-position: -107px 0 !important
 }
 
 .link .score.likes {
-    color: #008ece!important
+    color: #008ece !important
 }
 
 .arrow.down {
-    background-position: -87px -19px!important
+    background-position: -87px -19px !important
 }
 
 .arrow.downmod {
-    background-position: -107px -19px!important
+    background-position: -107px -19px !important
 }
 
 .link .score.dislikes {
-    color: #000!important
+    color: #000 !important
 }
 
 .thing .title {
     color: #111113
 }
 
-.thing a.title:hover,.thing .title:visited,.thing.visited .title {
+.thing a.title:hover, .thing .title:visited, .thing.visited .title {
     color: #008ece
 }
 
@@ -380,7 +380,7 @@ body>.content .link .rank,.rank-spacer {
 }
 
 .link .flat-list {
-    text-transform: capitalize!important
+    text-transform: capitalize !important
 }
 
 .entry .flat-list a:hover {
@@ -393,9 +393,9 @@ body>.content .link .rank,.rank-spacer {
 
 .link .entry .expando .usertext-body .md {
     padding: 0;
-    background: transparent!important;
+    background: transparent !important;
     border: none;
-    border-radius: 0!important
+    border-radius: 0 !important
 }
 
 .link .entry {
@@ -446,14 +446,14 @@ body>.content .link .rank,.rank-spacer {
     color: #888;
     background: #f5f5f5;
     border: 1px solid #dcdcdc;
-    line-height: 20px!important;
+    line-height: 20px !important;
     text-shadow: 1px 1px 0 #f5f5f5;
     text-transform: uppercase;
     border-radius: 3px;
     visibility: visible
 }
 
-.link .entry .tagline a.author,.link .entry .tagline a.subreddit {
+.link .entry .tagline a.author, .link .entry .tagline a.subreddit {
     color: #008ece
 }
 
@@ -462,7 +462,7 @@ body>.content .link .rank,.rank-spacer {
     background: #fff
 }
 
-.commentarea .panestack-title,.menuarea,#noresults.error {
+.commentarea .panestack-title, .menuarea, #noresults.error {
     max-height: 35px;
     margin: 0;
     padding: 10px 10px 0 10px;
@@ -477,7 +477,7 @@ body>.content .link .rank,.rank-spacer {
     background: #fff
 }
 
-.linkinfo .date span,.commentarea .panestack-title {
+.linkinfo .date span, .commentarea .panestack-title {
     text-transform: capitalize
 }
 
@@ -493,44 +493,44 @@ body>.content .link .rank,.rank-spacer {
     margin: 0
 }
 
-.title-button,.title-button.gold,.RESSubscriptionButton {
-    color: #fff!important;
-    background: #8c8c8c!important;
-    border: 0!important;
+.title-button, .title-button.gold, .RESSubscriptionButton {
+    color: #fff !important;
+    background: #8c8c8c !important;
+    border: 0 !important;
     line-height: 25px
 }
 
-.title-button:hover,.title-button.gold:hover,.panestack-title a.title-button.gold:hover,.RESSubscriptionButton:hover {
-    color: #fff!important;
-    background: #008ece!important
+.title-button:hover, .title-button.gold:hover, .panestack-title a.title-button.gold:hover, .RESSubscriptionButton:hover {
+    color: #fff !important;
+    background: #008ece !important
 }
 
 .drop-choices a.choice:hover {
     background: #e1e1e1
 }
 
-.dropdown.srdrop+.drop-choices {
-    min-width: 190px!important;
-    max-height: 180px!important;
-    left: 5px!important;
+.dropdown.srdrop + .drop-choices {
+    min-width: 190px !important;
+    max-height: 180px !important;
+    left: 5px !important;
     border-color: #e1e1e1;
     overflow-y: auto;
     z-index: 1002
 }
 
-html.res-commentBoxes .comment,html.res-commentBoxes .comment .comment,html.res-commentBoxes .comment .comment .comment,html.res-commentBoxes .comment .comment .comment .comment,html.res-commentBoxes .comment .comment .comment .comment .comment,html.res-commentBoxes .comment .comment .comment .comment .comment .comment,html.res-commentBoxes .comment .comment .comment .comment .comment .comment .comment,html.res-commentBoxes .comment .comment .comment .comment .comment .comment .comment .comment,html.res-commentBoxes .comment .comment .comment .comment .comment .comment .comment .comment .comment,html.res-commentBoxes .comment .comment .comment .comment .comment .comment .comment .comment .comment .comment,html.res-commentBoxes .comment .comment .comment .comment .comment .comment .comment .comment .comment .comment .comment {
-    margin: 0!important;
-    padding: 0!important;
-    background: transparent!important;
-    border: none!important
+html.res-commentBoxes .comment, html.res-commentBoxes .comment .comment, html.res-commentBoxes .comment .comment .comment, html.res-commentBoxes .comment .comment .comment .comment, html.res-commentBoxes .comment .comment .comment .comment .comment, html.res-commentBoxes .comment .comment .comment .comment .comment .comment, html.res-commentBoxes .comment .comment .comment .comment .comment .comment .comment, html.res-commentBoxes .comment .comment .comment .comment .comment .comment .comment .comment, html.res-commentBoxes .comment .comment .comment .comment .comment .comment .comment .comment .comment, html.res-commentBoxes .comment .comment .comment .comment .comment .comment .comment .comment .comment .comment, html.res-commentBoxes .comment .comment .comment .comment .comment .comment .comment .comment .comment .comment .comment {
+    margin: 0 !important;
+    padding: 0 !important;
+    background: transparent !important;
+    border: none !important
 }
 
 html.res-commentBoxes.res-commentBoxes-rounded .comment {
-    border-radius: 0!important
+    border-radius: 0 !important
 }
 
 html.res-commentBoxes .comment {
-    margin: 0 10px!important
+    margin: 0 10px !important
 }
 
 .comment .entry .tagline {
@@ -559,10 +559,10 @@ html.res-commentBoxes .comment {
     background: #fff;
     border: 1px solid #e6e6e6;
     border-top: 0;
-    text-transform: capitalize!important
+    text-transform: capitalize !important
 }
 
-.comment .entry:hover .tagline,.comment .entry:hover .md,.comment .entry:hover .flat-list {
+.comment .entry:hover .tagline, .comment .entry:hover .md, .comment .entry:hover .flat-list {
     border-color: #dcdcdc
 }
 
@@ -601,11 +601,11 @@ html.res-commentBoxes .comment {
     border: 0
 }
 
-.sitetable>:first-child {
+.sitetable > :first-child {
     border-top: 1px solid #e1e1e1
 }
 
-.comments-page .sitetable:nth-of-type(1) .md .expando-button,.comment .md .expando-button {
+.comments-page .sitetable:nth-of-type(1) .md .expando-button, .comment .md .expando-button {
     margin: 2px 0 0 4px
 }
 
@@ -613,11 +613,11 @@ html.res-commentBoxes .comment {
     margin: 0 0 0 4px
 }
 
-.comments-page .child,.res-commentBoxes .comment .child {
+.comments-page .child, .res-commentBoxes .comment .child {
     margin-left: 26px
 }
 
-.comments-page .child .child,.res-commentBoxes .comment .child .child {
+.comments-page .child .child, .res-commentBoxes .comment .child .child {
     padding-left: 11px
 }
 
@@ -653,7 +653,7 @@ html.res-commentBoxes .comment {
 
 .side {
     margin-top: 40px;
-    margin-left: 0!important;
+    margin-left: 0 !important;
     background: #f6f6f6
 }
 
@@ -685,7 +685,7 @@ html.res-commentBoxes .comment {
 }
 
 #searchexpando {
-    display: none!important
+    display: none !important
 }
 
 .side .sidebox.submit.submit-text {
@@ -710,15 +710,15 @@ html.res-commentBoxes .comment {
 }
 
 .side .morelink {
-    background: #fff!important;
+    background: #fff !important;
     border: 1px solid #e3e3e3;
     color: #008ece;
-    padding: 0 10px!important;
-    margin: 0!important;
+    padding: 0 10px !important;
+    margin: 0 !important;
     font-weight: normal;
     font-size: 12px;
     line-height: 40px;
-    border-radius: 0!important;
+    border-radius: 0 !important;
     text-transform: capitalize;
     height: 40px
 }
@@ -730,14 +730,14 @@ html.res-commentBoxes .comment {
 }
 
 .sidebox.submit-link {
-    display: none!important
+    display: none !important
 }
 
 .side .morelink .nub {
-    display: none!important
+    display: none !important
 }
 
-.side blockquote:nth-of-type(1) h2,.side blockquote:nth-of-type(2) h2 {
+.side blockquote:nth-of-type(1) h2, .side blockquote:nth-of-type(2) h2 {
     font-size: 14px;
     line-height: 30px
 }
@@ -749,27 +749,27 @@ html.res-commentBoxes .comment {
 }
 
 .multi-selector {
-    top: 397px!important
+    top: 397px !important
 }
 
-.side .subscribe-button a,.side a.helplink,.side a[href$="subreddit-rules"],.side a[href$="#panthers"],.md h4+hr+h4+ul {
+.side .subscribe-button a, .side a.helplink, .side a[href$="subreddit-rules"], .side a[href$="#panthers"], .md h4 + hr + h4 + ul {
     position: relative;
     width: 278px;
     font-size: 12px;
     font-weight: normal;
-    margin: 0!important;
-    padding: 0 10px!important;
-    color: #008ece!important;
-    background: #fff!important;
+    margin: 0 !important;
+    padding: 0 10px !important;
+    color: #008ece !important;
+    background: #fff !important;
     line-height: 40px;
     border: 1px solid #e3e3e3;
-    border-radius: 0!important;
+    border-radius: 0 !important;
     text-transform: capitalize
 }
 
 .side .subscribe-button a.active {
     display: block;
-    text-align: left!important
+    text-align: left !important
 }
 
 .side a.helplink {
@@ -790,36 +790,36 @@ html.res-commentBoxes .comment {
     margin: 0
 }
 
-.md h4+hr+h4+ul {
+.md h4 + hr + h4 + ul {
     position: absolute;
     top: 580px;
     margin: 0;
     height: 42px;
-    padding: 0!important;
+    padding: 0 !important;
     width: 298px
 }
 
-.md h4+hr+h4+ul li,.md h4+hr+h4+ul li a {
+.md h4 + hr + h4 + ul li, .md h4 + hr + h4 + ul li a {
     display: block;
     background: #fff;
     line-height: 40px
 }
 
-.md h4+hr+h4+ul>li {
+.md h4 + hr + h4 + ul > li {
     padding: 0 10px
 }
 
-.md h4+hr+h4+ul li {
+.md h4 + hr + h4 + ul li {
     height: 42px
 }
 
-.md h4+hr+h4+ul li a {
+.md h4 + hr + h4 + ul li a {
     position: relative;
     width: inherit;
     height: inherit
 }
 
-.md h4+hr+h4+ul li a:after {
+.md h4 + hr + h4 + ul li a:after {
     content: "";
     display: block;
     position: relative;
@@ -830,25 +830,25 @@ html.res-commentBoxes .comment {
     height: 36px
 }
 
-.md h4+hr+h4+ul li ul li a {
+.md h4 + hr + h4 + ul li ul li a {
     line-height: 32px;
     text-shadow: none;
     padding: 0 10px
 }
 
-.md h4+hr+h4+ul li ul li a:hover {
+.md h4 + hr + h4 + ul li ul li a:hover {
     background-color: #F6F6F6
 }
 
-.md h4+hr+h4+ul li ul {
+.md h4 + hr + h4 + ul li ul {
     display: none
 }
 
-.md h4+hr+h4+ul li:hover ul {
+.md h4 + hr + h4 + ul li:hover ul {
     display: block
 }
 
-.md h4+hr+h4+ul li ul li a:after {
+.md h4 + hr + h4 + ul li ul li a:after {
     left: 4px;
     width: 28px;
     height: 28px;
@@ -856,7 +856,7 @@ html.res-commentBoxes .comment {
     opacity: 1
 }
 
-.md h4+hr+h4+ul li ul {
+.md h4 + hr + h4 + ul li ul {
     position: absolute;
     top: -250px;
     right: 295px;
@@ -864,10 +864,10 @@ html.res-commentBoxes .comment {
     border: 2px solid #E6E6E6;
     z-index: 1000000;
     background: #fff;
-    padding-left: 0!important
+    padding-left: 0 !important
 }
 
-.md h4+hr+h4+ul li ul:after {
+.md h4 + hr + h4 + ul li ul:after {
     content: "";
     display: block;
     position: absolute;
@@ -880,11 +880,11 @@ html.res-commentBoxes .comment {
     bottom: 25px
 }
 
-.md h4+hr+h4+ul li ul li a[href$="/nfl"]::before {
-    display: none!important
+.md h4 + hr + h4 + ul li ul li a[href$="/nfl"]::before {
+    display: none !important
 }
 
-.side .submit-text a:after,.side .subscribe-button a:after,.side .sidecontentbox .helplink:after,.side a[href$="subreddit-rules"]::after,.side a[href$="#panthers"]::after,.md h4+hr+h4+ul>li:after {
+.side .submit-text a:after, .side .subscribe-button a:after, .side .sidecontentbox .helplink:after, .side a[href$="subreddit-rules"]::after, .side a[href$="#panthers"]::after, .md h4 + hr + h4 + ul > li:after {
     background-image: url("//b.thumbs.redditmedia.com/wxLwlHXt03G8kbTuSxEMBPkeXT35_K0vMqGbbRE7XkU.png");
     position: absolute;
     top: 50%;
@@ -897,7 +897,7 @@ html.res-commentBoxes .comment {
     transform: translateY(-50%)
 }
 
-.side .submit-text a:hover:after,.side .subscribe-button a:hover:after,.side .sidecontentbox .helplink:hover:after,.side a[href$="subreddit-rules"]:hover::after,.side a[href$="#panthers"]:hover:after,.md h4+hr+h4+ul>li:hover:after {
+.side .submit-text a:hover:after, .side .subscribe-button a:hover:after, .side .sidecontentbox .helplink:hover:after, .side a[href$="subreddit-rules"]:hover::after, .side a[href$="#panthers"]:hover:after, .md h4 + hr + h4 + ul > li:hover:after {
     opacity: 1
 }
 
@@ -926,33 +926,33 @@ html.res-commentBoxes .comment {
     background-position: 0 -285px
 }
 
-.md h4+hr+h4+ul>li::after {
+.md h4 + hr + h4 + ul > li::after {
     content: "";
     background-position: 0 -306px
 }
 
 .side .titlebox .redditname {
-    display: none!important
+    display: none !important
 }
 
-.side .subButtons .RESshortcut .RESshortcutoutside,.side .subButtons .REStoggle.RESDashboardToggle {
+.side .subButtons .RESshortcut .RESshortcutoutside, .side .subButtons .REStoggle.RESDashboardToggle {
     padding: 6px 8px;
     color: #fff;
     background: #8c8c8c;
-    border: 0!important;
+    border: 0 !important;
     transition: background .2s ease-in-out
 }
 
-.side .subButtons .RESshortcut .RESshortcutoutside:hover,.side .subButtons .REStoggle.RESDashboardToggle:hover {
+.side .subButtons .RESshortcut .RESshortcutoutside:hover, .side .subButtons .REStoggle.RESDashboardToggle:hover {
     background: #008ece
 }
 
-.titlebox form.toggle,.leavemoderator {
+.titlebox form.toggle, .leavemoderator {
     background: transparent
 }
 
 .titlebox .subscribers {
-    background-color: #fff!important;
+    background-color: #fff !important;
     text-align: right;
     display: block;
     font-size: 26px;
@@ -971,7 +971,7 @@ html.res-commentBoxes .comment {
     color: #008ece
 }
 
-.titlebox .subscribers .word,.titlebox .users-online .word {
+.titlebox .subscribers .word, .titlebox .users-online .word {
     display: none
 }
 
@@ -997,14 +997,14 @@ html.res-commentBoxes .comment {
     text-transform: uppercase
 }
 
-.leavemoderator,.leavecontributor-button {
+.leavemoderator, .leavecontributor-button {
     text-align: center
 }
 
 .titlebox .flairtoggle {
-    margin-top: 5px!important;
-    padding: 5px 0!important;
-    background: #e6e6e6!important
+    margin-top: 5px !important;
+    padding: 5px 0 !important;
+    background: #e6e6e6 !important
 }
 
 .titlebox .flairtoggle input {
@@ -1019,7 +1019,7 @@ html.res-commentBoxes .comment {
     text-align: center
 }
 
-.titlebox .flairtoggle+.tagline {
+.titlebox .flairtoggle + .tagline {
     position: relative;
     margin: 0 0 10px 0;
     padding: 2px 8px;
@@ -1031,7 +1031,7 @@ html.res-commentBoxes .comment {
     z-index: 56
 }
 
-.titlebox .flairtoggle+.tagline a.flairselectbtn {
+.titlebox .flairtoggle + .tagline a.flairselectbtn {
     float: right;
     font-weight: bold;
     margin: 6px 0;
@@ -1043,15 +1043,15 @@ html.res-commentBoxes .comment {
     border-radius: 3px
 }
 
-.titlebox .flairtoggle+.tagline a.flairselectbtn:hover {
+.titlebox .flairtoggle + .tagline a.flairselectbtn:hover {
     background: #008ece
 }
 
-.flairtoggle+.tagline .flair,.sidecontentbox .flair {
+.flairtoggle + .tagline .flair, .sidecontentbox .flair {
     margin-right: 0
 }
 
-.flairtoggle+.tagline .flair:hover,.sidecontentbox .flair:hover {
+.flairtoggle + .tagline .flair:hover, .sidecontentbox .flair:hover {
     width: 0;
     padding: 0;
     border: 1px solid transparent;
@@ -1060,14 +1060,14 @@ html.res-commentBoxes .comment {
 }
 
 .side .tagline .flairselector {
-    top: -28px!important;
-    left: -2px!important;
-    right: 20px!important;
-    width: 300px!important;
-    padding: 0!important;
+    top: -28px !important;
+    left: -2px !important;
+    right: 20px !important;
+    width: 300px !important;
+    padding: 0 !important;
     background: #fff;
     border: 2px solid #e6e6e6;
-    box-shadow: none!important
+    box-shadow: none !important
 }
 
 .flairselector h2 {
@@ -1080,11 +1080,11 @@ html.res-commentBoxes .comment {
 }
 
 .flairselector .flairoptionpane {
-    max-height: 200px!important
+    max-height: 200px !important
 }
 
 .flairselector ul {
-    width: 278px!important;
+    width: 278px !important;
     max-width: 296px;
     text-align: center
 }
@@ -1099,20 +1099,20 @@ html.res-commentBoxes .comment {
 }
 
 .flairselector li {
-    padding: 1px 6px!important;
+    padding: 1px 6px !important;
     line-height: 30px;
-    text-align: left!important
+    text-align: left !important
 }
 
-.flairselector li a:hover,.flairselector .flairremove a:hover,.flairselector .selected a {
-    color: #141414!important
+.flairselector li a:hover, .flairselector .flairremove a:hover, .flairselector .selected a {
+    color: #141414 !important
 }
 
-.flairselector .selected,.flairselector.active li {
+.flairselector .selected, .flairselector.active li {
     border: 0
 }
 
-.flairselector .selected,.flairselector li:hover,.flairselector form {
+.flairselector .selected, .flairselector li:hover, .flairselector form {
     background: #f6f6f6;
     border: 0
 }
@@ -1129,14 +1129,14 @@ html.res-commentBoxes .comment {
 }
 
 .flairselector .customizer input {
-    padding: 2px!important
+    padding: 2px !important
 }
 
 .flairselector form button {
     max-height: 24px
 }
 
-.create,.titlebox .bottom {
+.create, .titlebox .bottom {
     display: none
 }
 
@@ -1160,31 +1160,31 @@ html.res-commentBoxes .comment {
     font-size: 130%
 }
 
-.sidecontentbox .content,.linkinfo {
+.sidecontentbox .content, .linkinfo {
     margin: 0;
     padding: 5px 10px;
     background: #fff;
     border: 1px solid #e3e3e3
 }
 
-.sidecontentbox .helplink+.title+ul.content li {
+.sidecontentbox .helplink + .title + ul.content li {
     display: block;
     line-height: 30px
 }
 
-.sidecontentbox .helplink+.title+ul.content li.more,.gadget .right {
+.sidecontentbox .helplink + .title + ul.content li.more, .gadget .right {
     margin: 5px -8px -3px -8px;
     background: #f6f6f6;
     line-height: 22px;
     text-align: center
 }
 
-.gadget,.gadget .reddit-link-end {
+.gadget, .gadget .reddit-link-end {
     padding-top: 5px
 }
 
-.side .gadget .midcol,.side .gadget .linkflairlabel {
-    display: none!important
+.side .gadget .midcol, .side .gadget .linkflairlabel {
+    display: none !important
 }
 
 .gadget .reddit-entry {
@@ -1193,8 +1193,8 @@ html.res-commentBoxes .comment {
 }
 
 .side .md blockquote:first-of-type {
-    border: none!important;
-    padding: 0!important
+    border: none !important;
+    padding: 0 !important
 }
 
 .side blockquote:first-of-type h2 {
@@ -1236,7 +1236,7 @@ html.res-commentBoxes .comment {
     width: 10px
 }
 
-.side .md blockquote table tbody tr td:nth-child(1),.side .md blockquote table tbody tr td:nth-child(2),.side .md blockquote table tbody tr td:nth-child(3),.side .md blockquote table tr td:nth-child(3),.side .md blockquote table tr td:nth-child(4) {
+.side .md blockquote table tbody tr td:nth-child(1), .side .md blockquote table tbody tr td:nth-child(2), .side .md blockquote table tbody tr td:nth-child(3), .side .md blockquote table tr td:nth-child(3), .side .md blockquote table tr td:nth-child(4) {
     border-right: 1px solid #d8d8d8
 }
 
@@ -1262,11 +1262,11 @@ html.res-commentBoxes .comment {
 }
 
 .side .md blockquote table tbody tr td a[href$="/r/falcons"] {
-    background-position: 0 -8px!important
+    background-position: 0 -8px !important
 }
 
 .side .md blockquote table tbody tr td a[href$="/r/saints"] {
-    background-position: 3px -1211px!important
+    background-position: 3px -1211px !important
 }
 
 .side .md hr {
@@ -1319,7 +1319,7 @@ html.res-commentBoxes .comment {
     width: 32px
 }
 
-.flair-official+.author {
+.flair-official + .author {
     color: white;
     background: black;
     border-radius: 4px;
@@ -1329,11 +1329,11 @@ html.res-commentBoxes .comment {
     padding: 2px 4px
 }
 
-.flair-official+.author:after {
+.flair-official + .author:after {
     content: " - Verified account"
 }
 
-a[href$="/r/nfl"]::before,a[href$="/NFL"]::before,a[href$="/ARI"]::before,a[href$="/ATL"]::before,a[href$="/BAL"]::before,a[href$="/BUF"]::before,a[href$="/CAR"]::before,a[href$="/CHI"]::before,a[href$="/CIN"]::before,a[href$="/CLE"]::before,a[href$="/DAL"]::before,a[href$="/DEN"]::before,a[href$="/DET"]::before,a[href$="/GB"]::before,a[href$="/HOU"]::before,a[href$="/IND"]::before,a[href$="/JAC"]::before,a[href$="/KC"]::before,a[href$="/MIA"]::before,a[href$="/MIN"]::before,a[href$="/NE"]::before,a[href$="/NO"]::before,a[href$="/NYG"]::before,a[href$="/NYJ"]::before,a[href$="/OAK"]::before,a[href$="/PHI"]::before,a[href$="/PIT"]::before,a[href$="/SD"]::before,a[href$="/SF"]::before,a[href$="/SEA"]::before,a[href$="/LA"]::before,a[href$="/TB"]::before,a[href$="/TEN"]::before,a[href$="/WAS"]::before,a[href$="/NFC"]::before,a[href$="/AFC"]::before {
+a[href$="/r/nfl"]::before, a[href$="/NFL"]::before, a[href$="/ARI"]::before, a[href$="/ATL"]::before, a[href$="/BAL"]::before, a[href$="/BUF"]::before, a[href$="/CAR"]::before, a[href$="/CHI"]::before, a[href$="/CIN"]::before, a[href$="/CLE"]::before, a[href$="/DAL"]::before, a[href$="/DEN"]::before, a[href$="/DET"]::before, a[href$="/GB"]::before, a[href$="/HOU"]::before, a[href$="/IND"]::before, a[href$="/JAC"]::before, a[href$="/KC"]::before, a[href$="/MIA"]::before, a[href$="/MIN"]::before, a[href$="/NE"]::before, a[href$="/NO"]::before, a[href$="/NYG"]::before, a[href$="/NYJ"]::before, a[href$="/OAK"]::before, a[href$="/PHI"]::before, a[href$="/PIT"]::before, a[href$="/SD"]::before, a[href$="/SF"]::before, a[href$="/SEA"]::before, a[href$="/LA"]::before, a[href$="/TB"]::before, a[href$="/TEN"]::before, a[href$="/WAS"]::before, a[href$="/NFC"]::before, a[href$="/AFC"]::before {
     content: "";
     display: inline-block;
     height: 30px;
@@ -1488,7 +1488,7 @@ a[href$="/AFC"]::before {
     background-position: 0 -1200px
 }
 
-.flair-nfl::before,a[href$="/r/nfl"]::before {
+.flair-nfl::before, a[href$="/r/nfl"]::before {
     background-position: 0 -640px
 }
 
@@ -1496,8 +1496,8 @@ a[href$="/AFC"]::before {
     background-position: 0 -1024px
 }
 
-.flair-nfl.flair-official+.author {
-    color: #E3C764!important;
+.flair-nfl.flair-official + .author {
+    color: #E3C764 !important;
     background: #4D4D55
 }
 
@@ -1513,877 +1513,877 @@ a[href$="/AFC"]::before {
     background-position: 0 0
 }
 
-.flair-cardinals.flair-official+.author {
-    color: #FFF!important;
+.flair-cardinals.flair-official + .author {
+    color: #FFF !important;
     background: #97233F
 }
 
 .titlebox .tagline .flairselector .flair-cardinals::before {
-    background-position: 0 0!important
+    background-position: 0 0 !important
 }
 
 .flair-falcons.flair-official:before {
     background-position: 0 -32px
 }
 
-.flair-falcons.flair-official+.author {
-    color: #A71930!important;
+.flair-falcons.flair-official + .author {
+    color: #A71930 !important;
     background: #000
 }
 
-.flair-falcons::before,.titlebox .tagline .flairselector .flair-falcons::before {
-    background-position: 0 -28px!important
+.flair-falcons::before, .titlebox .tagline .flairselector .flair-falcons::before {
+    background-position: 0 -28px !important
 }
 
 .flair-ravens.flair-official:before {
     background-position: 0 -64px
 }
 
-.flair-ravens.flair-official+.author {
-    color: #9E7C0C!important;
+.flair-ravens.flair-official + .author {
+    color: #9E7C0C !important;
     background: #241773
 }
 
-.flair-ravens::before,.titlebox .tagline .flairselector .flair-ravens::before {
-    background-position: 0 -60px!important
+.flair-ravens::before, .titlebox .tagline .flairselector .flair-ravens::before {
+    background-position: 0 -60px !important
 }
 
 .flair-bills.flair-official:before {
     background-position: 0 -96px
 }
 
-.flair-bills.flair-official+.author {
-    color: #C60C30!important;
+.flair-bills.flair-official + .author {
+    color: #C60C30 !important;
     background: #00338D
 }
 
-.flair-bills::before,.titlebox .tagline .flairselector .flair-bills::before {
-    background-position: 0 -92px!important
+.flair-bills::before, .titlebox .tagline .flairselector .flair-bills::before {
+    background-position: 0 -92px !important
 }
 
 .flair-panthers.flair-official:before {
     background-position: 0 -128px
 }
 
-.flair-panthers.flair-official+.author {
-    color: #000!important;
+.flair-panthers.flair-official + .author {
+    color: #000 !important;
     background: #0085CA
 }
 
-.flair-panthers::before,.titlebox .tagline .flairselector .flair-panthers::before {
-    background-position: 0 -124px!important
+.flair-panthers::before, .titlebox .tagline .flairselector .flair-panthers::before {
+    background-position: 0 -124px !important
 }
 
 .flair-bears.flair-official:before {
     background-position: 0 -160px
 }
 
-.flair-bears.flair-official+.author {
-    color: #C83803!important;
+.flair-bears.flair-official + .author {
+    color: #C83803 !important;
     background: #0B162A
 }
 
-.flair-bears::before,.titlebox .tagline .flairselector .flair-bears::before {
-    background-position: 0 -152px!important
+.flair-bears::before, .titlebox .tagline .flairselector .flair-bears::before {
+    background-position: 0 -152px !important
 }
 
 .flair-bengals.flair-official:before {
     background-position: 0 -192px
 }
 
-.flair-bengals.flair-official+.author {
-    color: #FB4F14!important;
+.flair-bengals.flair-official + .author {
+    color: #FB4F14 !important;
     background: #000
 }
 
-.flair-bengals::before,.titlebox .tagline .flairselector .flair-bengals::before {
-    background-position: 0 -182px!important
+.flair-bengals::before, .titlebox .tagline .flairselector .flair-bengals::before {
+    background-position: 0 -182px !important
 }
 
 .flair-browns.flair-official:before {
     background-position: 0 -224px
 }
 
-.flair-browns.flair-official+.author {
-    color: #311D00!important;
+.flair-browns.flair-official + .author {
+    color: #311D00 !important;
     background: #FF3C00
 }
 
-.flair-browns::before,.titlebox .tagline .flairselector .flair-browns::before {
-    background-position: 0 -212px!important
+.flair-browns::before, .titlebox .tagline .flairselector .flair-browns::before {
+    background-position: 0 -212px !important
 }
 
 .flair-cowboys.flair-official:before {
     background-position: 0 -256px
 }
 
-.flair-cowboys.flair-official+.author {
-    color: #B0B7BC!important;
+.flair-cowboys.flair-official + .author {
+    color: #B0B7BC !important;
     background: #024
 }
 
-.flair-cowboys::before,.titlebox .tagline .flairselector .flair-cowboys::before {
-    background-position: 0 -244px!important
+.flair-cowboys::before, .titlebox .tagline .flairselector .flair-cowboys::before {
+    background-position: 0 -244px !important
 }
 
 .flair-broncos.flair-official:before {
     background-position: 0 -288px
 }
 
-.flair-broncos.flair-official+.author {
-    color: #024!important;
+.flair-broncos.flair-official + .author {
+    color: #024 !important;
     background: #FB4F14
 }
 
-.flair-broncos::before,.titlebox .tagline .flairselector .flair-broncos::before {
-    background-position: 0 -272px!important
+.flair-broncos::before, .titlebox .tagline .flairselector .flair-broncos::before {
+    background-position: 0 -272px !important
 }
 
 .flair-lions.flair-official:before {
     background-position: 0 -320px
 }
 
-.flair-lions.flair-official+.author {
-    color: #B0B7BC!important;
+.flair-lions.flair-official + .author {
+    color: #B0B7BC !important;
     background: #005A8B
 }
 
-.flair-lions::before,.titlebox .tagline .flairselector .flair-lions::before {
-    background-position: 0 -304px!important
+.flair-lions::before, .titlebox .tagline .flairselector .flair-lions::before {
+    background-position: 0 -304px !important
 }
 
 .flair-packers.flair-official:before {
     background-position: 0 -352px
 }
 
-.flair-packers.flair-official+.author {
-    color: #FFB612!important;
+.flair-packers.flair-official + .author {
+    color: #FFB612 !important;
     background: #203731
 }
 
-.flair-packers::before,.titlebox .tagline .flairselector .flair-packers::before {
-    background-position: 0 -332px!important
+.flair-packers::before, .titlebox .tagline .flairselector .flair-packers::before {
+    background-position: 0 -332px !important
 }
 
 .flair-texans.flair-official:before {
     background-position: 0 -384px
 }
 
-.flair-texans.flair-official+.author {
-    color: #A71930!important;
+.flair-texans.flair-official + .author {
+    color: #A71930 !important;
     background: #03202F
 }
 
-.flair-texans::before,.titlebox .tagline .flairselector .flair-texans::before {
-    background-position: 0 -360px!important
+.flair-texans::before, .titlebox .tagline .flairselector .flair-texans::before {
+    background-position: 0 -360px !important
 }
 
 .flair-colts.flair-official:before {
     background-position: 0 -416px
 }
 
-.flair-colts.flair-official+.author {
-    color: #FFF!important;
+.flair-colts.flair-official + .author {
+    color: #FFF !important;
     background: #002C5F
 }
 
-.flair-colts::before,.titlebox .tagline .flairselector .flair-colts::before {
-    background-position: 0 -390px!important
+.flair-colts::before, .titlebox .tagline .flairselector .flair-colts::before {
+    background-position: 0 -390px !important
 }
 
 .flair-jaguars.flair-official:before {
     background-position: 0 -448px
 }
 
-.flair-jaguars.flair-official+.author {
-    color: #006778!important;
+.flair-jaguars.flair-official + .author {
+    color: #006778 !important;
     background: #000
 }
 
-.flair-jaguars::before,.titlebox .tagline .flairselector .flair-jaguars::before {
-    background-position: 0 -420px!important
+.flair-jaguars::before, .titlebox .tagline .flairselector .flair-jaguars::before {
+    background-position: 0 -420px !important
 }
 
 .flair-chiefs.flair-official:before {
     background-position: 0 -480px
 }
 
-.flair-chiefs.flair-official+.author {
-    color: #FFB612!important;
+.flair-chiefs.flair-official + .author {
+    color: #FFB612 !important;
     background: #E31837
 }
 
-.flair-chiefs::before,.titlebox .tagline .flairselector .flair-chiefs::before {
-    background-position: 0 -450px!important
+.flair-chiefs::before, .titlebox .tagline .flairselector .flair-chiefs::before {
+    background-position: 0 -450px !important
 }
 
 .flair-dolphins.flair-official:before {
     background-position: 0 -512px
 }
 
-.flair-dolphins.flair-official+.author {
-    color: #F58220!important;
+.flair-dolphins.flair-official + .author {
+    color: #F58220 !important;
     background: #008E97
 }
 
-.flair-dolphins::before,.titlebox .tagline .flairselector .flair-dolphins::before {
-    background-position: 0 -480px!important
+.flair-dolphins::before, .titlebox .tagline .flairselector .flair-dolphins::before {
+    background-position: 0 -480px !important
 }
 
 .flair-vikings.flair-official:before {
     background-position: 0 -544px
 }
 
-.flair-vikings.flair-official+.author {
-    color: #FFC62F!important;
+.flair-vikings.flair-official + .author {
+    color: #FFC62F !important;
     background: #4F2683
 }
 
-.flair-vikings::before,.titlebox .tagline .flairselector .flair-vikings::before {
-    background-position: 0 -510px!important
+.flair-vikings::before, .titlebox .tagline .flairselector .flair-vikings::before {
+    background-position: 0 -510px !important
 }
 
 .flair-patriots.flair-official:before {
     background-position: 0 -576px
 }
 
-.flair-patriots.flair-official+.author {
-    color: #C60C30!important;
+.flair-patriots.flair-official + .author {
+    color: #C60C30 !important;
     background: #024
 }
 
-.flair-patriots::before,.titlebox .tagline .flairselector .flair-patriots::before {
-    background-position: 0 -540px!important
+.flair-patriots::before, .titlebox .tagline .flairselector .flair-patriots::before {
+    background-position: 0 -540px !important
 }
 
 .flair-saints.flair-official:before {
     background-position: 0 -608px
 }
 
-.flair-saints.flair-official+.author {
-    color: #9F8958!important;
+.flair-saints.flair-official + .author {
+    color: #9F8958 !important;
     background: #000
 }
 
-.flair-saints::before,.titlebox .tagline .flairselector .flair-saints::before {
-    background-position: 0 -570px!important
+.flair-saints::before, .titlebox .tagline .flairselector .flair-saints::before {
+    background-position: 0 -570px !important
 }
 
 .flair-giants.flair-official:before {
     background-position: 0 -640px
 }
 
-.flair-giants.flair-official+.author {
-    color: #A71930!important;
+.flair-giants.flair-official + .author {
+    color: #A71930 !important;
     background: #0B2265
 }
 
-.flair-giants::before,.titlebox .tagline .flairselector .flair-giants::before {
-    background-position: 0 -600px!important
+.flair-giants::before, .titlebox .tagline .flairselector .flair-giants::before {
+    background-position: 0 -600px !important
 }
 
 .flair-jets.flair-official:before {
     background-position: 0 -672px
 }
 
-.flair-jets.flair-official+.author {
-    color: #FFF!important;
+.flair-jets.flair-official + .author {
+    color: #FFF !important;
     background: #203731
 }
 
-.flair-jets::before,.titlebox .tagline .flairselector .flair-jets::before {
-    background-position: 0 -630px!important
+.flair-jets::before, .titlebox .tagline .flairselector .flair-jets::before {
+    background-position: 0 -630px !important
 }
 
 .flair-raiders.flair-official:before {
     background-position: 0 -704px
 }
 
-.flair-raiders.flair-official+.author {
-    color: #000!important;
+.flair-raiders.flair-official + .author {
+    color: #000 !important;
     background: #A5ACAF
 }
 
-.flair-raiders::before,.titlebox .tagline .flairselector .flair-raiders::before {
-    background-position: 0 -660px!important
+.flair-raiders::before, .titlebox .tagline .flairselector .flair-raiders::before {
+    background-position: 0 -660px !important
 }
 
 .flair-eagles.flair-official:before {
     background-position: 0 -736px
 }
 
-.flair-eagles.flair-official+.author {
-    color: #A5ACAF!important;
+.flair-eagles.flair-official + .author {
+    color: #A5ACAF !important;
     background: #004953
 }
 
-.flair-eagles::before,.titlebox .tagline .flairselector .flair-eagles::before {
-    background-position: 0 -690px!important
+.flair-eagles::before, .titlebox .tagline .flairselector .flair-eagles::before {
+    background-position: 0 -690px !important
 }
 
 .flair-steelers.flair-official:before {
     background-position: 0 -768px
 }
 
-.flair-steelers.flair-official+.author {
-    color: #FFB612!important;
+.flair-steelers.flair-official + .author {
+    color: #FFB612 !important;
     background: #000
 }
 
-.flair-steelers::before,.titlebox .tagline .flairselector .flair-steelers::before {
-    background-position: 0 -720px!important
+.flair-steelers::before, .titlebox .tagline .flairselector .flair-steelers::before {
+    background-position: 0 -720px !important
 }
 
 .flair-chargers.flair-official:before {
     background-position: 0 -800px
 }
 
-.flair-chargers.flair-official+.author {
-    color: #0073CF!important;
+.flair-chargers.flair-official + .author {
+    color: #0073CF !important;
     background: #024
 }
 
-.flair-chargers::before,.titlebox .tagline .flairselector .flair-chargers::before {
-    background-position: 0 -750px!important
+.flair-chargers::before, .titlebox .tagline .flairselector .flair-chargers::before {
+    background-position: 0 -750px !important
 }
 
 .flair-fortyniners.flair-official:before {
     background-position: 0 -832px
 }
 
-.flair-fortyniners.flair-official+.author {
-    color: #B3995D!important;
+.flair-fortyniners.flair-official + .author {
+    color: #B3995D !important;
     background: #A00
 }
 
-.flair-fortyniners::before,.titlebox .tagline .flairselector .flair-fortyniners::before {
-    background-position: 0 -780px!important
+.flair-fortyniners::before, .titlebox .tagline .flairselector .flair-fortyniners::before {
+    background-position: 0 -780px !important
 }
 
 .flair-seahawks.flair-official:before {
     background-position: 0 -864px
 }
 
-.flair-seahawks.flair-official+.author {
-    color: #69BE28!important;
+.flair-seahawks.flair-official + .author {
+    color: #69BE28 !important;
     background: #024
 }
 
-.flair-seahawks::before,.titlebox .tagline .flairselector .flair-seahawks::before {
-    background-position: 0 -810px!important
+.flair-seahawks::before, .titlebox .tagline .flairselector .flair-seahawks::before {
+    background-position: 0 -810px !important
 }
 
 .flair-rams.flair-official:before {
     background-position: 0 -896px
 }
 
-.flair-rams.flair-official+.author {
-    color: #B3995D!important;
+.flair-rams.flair-official + .author {
+    color: #B3995D !important;
     background: #024
 }
 
-.flair-rams::before,.titlebox .tagline .flairselector .flair-rams::before {
-    background-position: 0 -840px!important
+.flair-rams::before, .titlebox .tagline .flairselector .flair-rams::before {
+    background-position: 0 -840px !important
 }
 
 .flair-buccaneers.flair-official:before {
     background-position: 0 -928px
 }
 
-.flair-buccaneers.flair-official+.author {
-    color: #34302B!important;
+.flair-buccaneers.flair-official + .author {
+    color: #34302B !important;
     background: #D50A0A
 }
 
-.flair-buccaneers::before,.titlebox .tagline .flairselector .flair-buccaneers::before {
-    background-position: 0 -870px!important
+.flair-buccaneers::before, .titlebox .tagline .flairselector .flair-buccaneers::before {
+    background-position: 0 -870px !important
 }
 
 .flair-titans.flair-official:before {
     background-position: 0 -960px
 }
 
-.flair-titans.flair-official+.author {
-    color: #4B92DB!important;
+.flair-titans.flair-official + .author {
+    color: #4B92DB !important;
     background: #024
 }
 
-.flair-titans::before,.titlebox .tagline .flairselector .flair-titans::before {
-    background-position: 0 -900px!important
+.flair-titans::before, .titlebox .tagline .flairselector .flair-titans::before {
+    background-position: 0 -900px !important
 }
 
 .flair-redskins.flair-official:before {
     background-position: 0 -992px
 }
 
-.flair-redskins.flair-official+.author {
-    color: #FFB612!important;
+.flair-redskins.flair-official + .author {
+    color: #FFB612 !important;
     background: #773141
 }
 
-.flair-redskins::before,.titlebox .tagline .flairselector .flair-redskins::before {
-    background-position: 0 -930px!important
+.flair-redskins::before, .titlebox .tagline .flairselector .flair-redskins::before {
+    background-position: 0 -930px !important
 }
 
 .flair-nfc.flair-official:before {
     background-position: 0 -1056px
 }
 
-.flair-nfc.flair-official+.author {
-    color: #FFF!important;
+.flair-nfc.flair-official + .author {
+    color: #FFF !important;
     background: #12376E
 }
 
-.flair-nfc::before,.titlebox .tagline .flairselector .flair-nfc::before {
-    background-position: 0 -1052px!important
+.flair-nfc::before, .titlebox .tagline .flairselector .flair-nfc::before {
+    background-position: 0 -1052px !important
 }
 
 .flair-afc.flair-official:before {
     background-position: 0 -1088px
 }
 
-.flair-afc.flair-official+.author {
-    color: #FFF!important;
+.flair-afc.flair-official + .author {
+    color: #FFF !important;
     background: #DB1F26
 }
 
-.flair-afc::before,.titlebox .tagline .flairselector .flair-afc::before {
-    background-position: 0 -1084px!important
+.flair-afc::before, .titlebox .tagline .flairselector .flair-afc::before {
+    background-position: 0 -1084px !important
 }
 
 .flair-black-jersey:before {
-    background-image: url("//b.thumbs.redditmedia.com/wpW6Hg6uhUHL0N-zrKKEaGxakB73rY3ePK6I5bg_yoY.png")!important
+    background-image: url("//b.thumbs.redditmedia.com/wpW6Hg6uhUHL0N-zrKKEaGxakB73rY3ePK6I5bg_yoY.png") !important
 }
 
 .flair-white-jersey:before {
-    background-image: url("//b.thumbs.redditmedia.com/l3zTbniDyvpiKlxBfgApnQ6z8BuUeQY5DP00SGH_LOk.png")!important
+    background-image: url("//b.thumbs.redditmedia.com/l3zTbniDyvpiKlxBfgApnQ6z8BuUeQY5DP00SGH_LOk.png") !important
 }
 
 .flair-blue-jersey:before {
-    background-image: url("//b.thumbs.redditmedia.com/ul79C122q-1D-9Cw7beFX2Ag_iiYFPtC48NRh4MRmjA.png")!important
+    background-image: url("//b.thumbs.redditmedia.com/ul79C122q-1D-9Cw7beFX2Ag_iiYFPtC48NRh4MRmjA.png") !important
 }
 
-.flair-blue-jersey[title="1"]:before,.flair-black-jersey[title="1"]:before,.flair-white-jersey[title="1"]:before {
-    background-position: 0 0!important
+.flair-blue-jersey[title="1"]:before, .flair-black-jersey[title="1"]:before, .flair-white-jersey[title="1"]:before {
+    background-position: 0 0 !important
 }
 
 .titlebox .tagline .flairselector .flair-black-jersey[title="1"]:before {
-    background-position: 0 0!important
+    background-position: 0 0 !important
 }
 
-.flair-blue-jersey[title="2"]:before,.flair-black-jersey[title="2"]:before,.flair-white-jersey[title="2"]:before {
-    background-position: 0 -30px!important
+.flair-blue-jersey[title="2"]:before, .flair-black-jersey[title="2"]:before, .flair-white-jersey[title="2"]:before {
+    background-position: 0 -30px !important
 }
 
-.flair-blue-jersey[title="3"]:before,.flair-black-jersey[title="3"]:before,.flair-white-jersey[title="3"]:before {
-    background-position: 0 -60px!important
+.flair-blue-jersey[title="3"]:before, .flair-black-jersey[title="3"]:before, .flair-white-jersey[title="3"]:before {
+    background-position: 0 -60px !important
 }
 
-.flair-blue-jersey[title="4"]:before,.flair-black-jersey[title="4"]:before,.flair-white-jersey[title="4"]:before {
-    background-position: 0 -90px!important
+.flair-blue-jersey[title="4"]:before, .flair-black-jersey[title="4"]:before, .flair-white-jersey[title="4"]:before {
+    background-position: 0 -90px !important
 }
 
-.flair-blue-jersey[title="5"]:before,.flair-black-jersey[title="5"]:before,.flair-white-jersey[title="5"]:before {
-    background-position: 0 -120px!important
+.flair-blue-jersey[title="5"]:before, .flair-black-jersey[title="5"]:before, .flair-white-jersey[title="5"]:before {
+    background-position: 0 -120px !important
 }
 
-.flair-blue-jersey[title="6"]:before,.flair-black-jersey[title="6"]:before,.flair-white-jersey[title="6"]:before {
-    background-position: 0 -150px!important
+.flair-blue-jersey[title="6"]:before, .flair-black-jersey[title="6"]:before, .flair-white-jersey[title="6"]:before {
+    background-position: 0 -150px !important
 }
 
-.flair-blue-jersey[title="7"]:before,.flair-black-jersey[title="7"]:before,.flair-white-jersey[title="7"]:before {
-    background-position: 0 -180px!important
+.flair-blue-jersey[title="7"]:before, .flair-black-jersey[title="7"]:before, .flair-white-jersey[title="7"]:before {
+    background-position: 0 -180px !important
 }
 
-.flair-blue-jersey[title="8"]:before,.flair-black-jersey[title="8"]:before,.flair-white-jersey[title="8"]:before {
-    background-position: 0 -210px!important
+.flair-blue-jersey[title="8"]:before, .flair-black-jersey[title="8"]:before, .flair-white-jersey[title="8"]:before {
+    background-position: 0 -210px !important
 }
 
-.flair-blue-jersey[title="9"]:before,.flair-black-jersey[title="9"]:before,.flair-white-jersey[title="9"]:before {
-    background-position: 0 -240px!important
+.flair-blue-jersey[title="9"]:before, .flair-black-jersey[title="9"]:before, .flair-white-jersey[title="9"]:before {
+    background-position: 0 -240px !important
 }
 
-.flair-blue-jersey[title="10"]:before,.flair-black-jersey[title="10"]:before,.flair-white-jersey[title="10"]:before {
-    background-position: 0 -270px!important
+.flair-blue-jersey[title="10"]:before, .flair-black-jersey[title="10"]:before, .flair-white-jersey[title="10"]:before {
+    background-position: 0 -270px !important
 }
 
-.flair-blue-jersey[title="11"]:before,.flair-black-jersey[title="11"]:before,.flair-white-jersey[title="11"]:before {
-    background-position: 0 -300px!important
+.flair-blue-jersey[title="11"]:before, .flair-black-jersey[title="11"]:before, .flair-white-jersey[title="11"]:before {
+    background-position: 0 -300px !important
 }
 
-.flair-blue-jersey[title="12"]:before,.flair-black-jersey[title="12"]:before,.flair-white-jersey[title="12"]:before {
-    background-position: 0 -330px!important
+.flair-blue-jersey[title="12"]:before, .flair-black-jersey[title="12"]:before, .flair-white-jersey[title="12"]:before {
+    background-position: 0 -330px !important
 }
 
-.flair-blue-jersey[title="13"]:before,.flair-black-jersey[title="13"]:before,.flair-white-jersey[title="13"]:before {
-    background-position: 0 -360px!important
+.flair-blue-jersey[title="13"]:before, .flair-black-jersey[title="13"]:before, .flair-white-jersey[title="13"]:before {
+    background-position: 0 -360px !important
 }
 
-.flair-blue-jersey[title="14"]:before,.flair-black-jersey[title="14"]:before,.flair-white-jersey[title="14"]:before {
-    background-position: 0 -390px!important
+.flair-blue-jersey[title="14"]:before, .flair-black-jersey[title="14"]:before, .flair-white-jersey[title="14"]:before {
+    background-position: 0 -390px !important
 }
 
-.flair-blue-jersey[title="15"]:before,.flair-black-jersey[title="15"]:before,.flair-white-jersey[title="15"]:before {
-    background-position: 0 -420px!important
+.flair-blue-jersey[title="15"]:before, .flair-black-jersey[title="15"]:before, .flair-white-jersey[title="15"]:before {
+    background-position: 0 -420px !important
 }
 
-.flair-blue-jersey[title="16"]:before,.flair-black-jersey[title="16"]:before,.flair-white-jersey[title="16"]:before {
-    background-position: 0 -450px!important
+.flair-blue-jersey[title="16"]:before, .flair-black-jersey[title="16"]:before, .flair-white-jersey[title="16"]:before {
+    background-position: 0 -450px !important
 }
 
-.flair-blue-jersey[title="17"]:before,.flair-black-jersey[title="17"]:before,.flair-white-jersey[title="17"]:before {
-    background-position: 0 -480px!important
+.flair-blue-jersey[title="17"]:before, .flair-black-jersey[title="17"]:before, .flair-white-jersey[title="17"]:before {
+    background-position: 0 -480px !important
 }
 
-.flair-blue-jersey[title="18"]:before,.flair-black-jersey[title="18"]:before,.flair-white-jersey[title="18"]:before {
-    background-position: 0 -510px!important
+.flair-blue-jersey[title="18"]:before, .flair-black-jersey[title="18"]:before, .flair-white-jersey[title="18"]:before {
+    background-position: 0 -510px !important
 }
 
-.flair-blue-jersey[title="19"]:before,.flair-black-jersey[title="19"]:before,.flair-white-jersey[title="19"]:before {
-    background-position: 0 -540px!important
+.flair-blue-jersey[title="19"]:before, .flair-black-jersey[title="19"]:before, .flair-white-jersey[title="19"]:before {
+    background-position: 0 -540px !important
 }
 
-.flair-blue-jersey[title="20"]:before,.flair-black-jersey[title="20"]:before,.flair-white-jersey[title="20"]:before {
-    background-position: 0 -570px!important
+.flair-blue-jersey[title="20"]:before, .flair-black-jersey[title="20"]:before, .flair-white-jersey[title="20"]:before {
+    background-position: 0 -570px !important
 }
 
-.flair-blue-jersey[title="21"]:before,.flair-black-jersey[title="21"]:before,.flair-white-jersey[title="21"]:before {
-    background-position: 0 -600px!important
+.flair-blue-jersey[title="21"]:before, .flair-black-jersey[title="21"]:before, .flair-white-jersey[title="21"]:before {
+    background-position: 0 -600px !important
 }
 
-.flair-blue-jersey[title="22"]:before,.flair-black-jersey[title="22"]:before,.flair-white-jersey[title="22"]:before {
-    background-position: 0 -630px!important
+.flair-blue-jersey[title="22"]:before, .flair-black-jersey[title="22"]:before, .flair-white-jersey[title="22"]:before {
+    background-position: 0 -630px !important
 }
 
-.flair-blue-jersey[title="23"]:before,.flair-black-jersey[title="23"]:before,.flair-white-jersey[title="23"]:before {
-    background-position: 0 -660px!important
+.flair-blue-jersey[title="23"]:before, .flair-black-jersey[title="23"]:before, .flair-white-jersey[title="23"]:before {
+    background-position: 0 -660px !important
 }
 
-.flair-blue-jersey[title="24"]:before,.flair-black-jersey[title="24"]:before,.flair-white-jersey[title="24"]:before {
-    background-position: 0 -690px!important
+.flair-blue-jersey[title="24"]:before, .flair-black-jersey[title="24"]:before, .flair-white-jersey[title="24"]:before {
+    background-position: 0 -690px !important
 }
 
-.flair-blue-jersey[title="25"]:before,.flair-black-jersey[title="25"]:before,.flair-white-jersey[title="25"]:before {
-    background-position: 0 -720px!important
+.flair-blue-jersey[title="25"]:before, .flair-black-jersey[title="25"]:before, .flair-white-jersey[title="25"]:before {
+    background-position: 0 -720px !important
 }
 
-.flair-blue-jersey[title="26"]:before,.flair-black-jersey[title="26"]:before,.flair-white-jersey[title="26"]:before {
-    background-position: 0 -750px!important
+.flair-blue-jersey[title="26"]:before, .flair-black-jersey[title="26"]:before, .flair-white-jersey[title="26"]:before {
+    background-position: 0 -750px !important
 }
 
-.flair-blue-jersey[title="27"]:before,.flair-black-jersey[title="27"]:before,.flair-white-jersey[title="27"]:before {
-    background-position: 0 -780px!important
+.flair-blue-jersey[title="27"]:before, .flair-black-jersey[title="27"]:before, .flair-white-jersey[title="27"]:before {
+    background-position: 0 -780px !important
 }
 
-.flair-blue-jersey[title="28"]:before,.flair-black-jersey[title="28"]:before,.flair-white-jersey[title="28"]:before {
-    background-position: 0 -810px!important
+.flair-blue-jersey[title="28"]:before, .flair-black-jersey[title="28"]:before, .flair-white-jersey[title="28"]:before {
+    background-position: 0 -810px !important
 }
 
-.flair-blue-jersey[title="29"]:before,.flair-black-jersey[title="29"]:before,.flair-white-jersey[title="29"]:before {
-    background-position: 0 -840px!important
+.flair-blue-jersey[title="29"]:before, .flair-black-jersey[title="29"]:before, .flair-white-jersey[title="29"]:before {
+    background-position: 0 -840px !important
 }
 
-.flair-blue-jersey[title="30"]:before,.flair-black-jersey[title="30"]:before,.flair-white-jersey[title="30"]:before {
-    background-position: 0 -870px!important
+.flair-blue-jersey[title="30"]:before, .flair-black-jersey[title="30"]:before, .flair-white-jersey[title="30"]:before {
+    background-position: 0 -870px !important
 }
 
-.flair-blue-jersey[title="31"]:before,.flair-black-jersey[title="31"]:before,.flair-white-jersey[title="31"]:before {
-    background-position: 0 -900px!important
+.flair-blue-jersey[title="31"]:before, .flair-black-jersey[title="31"]:before, .flair-white-jersey[title="31"]:before {
+    background-position: 0 -900px !important
 }
 
-.flair-blue-jersey[title="32"]:before,.flair-black-jersey[title="32"]:before,.flair-white-jersey[title="32"]:before {
-    background-position: 0 -930px!important
+.flair-blue-jersey[title="32"]:before, .flair-black-jersey[title="32"]:before, .flair-white-jersey[title="32"]:before {
+    background-position: 0 -930px !important
 }
 
-.flair-blue-jersey[title="33"]:before,.flair-black-jersey[title="33"]:before,.flair-white-jersey[title="33"]:before {
-    background-position: 0 -960px!important
+.flair-blue-jersey[title="33"]:before, .flair-black-jersey[title="33"]:before, .flair-white-jersey[title="33"]:before {
+    background-position: 0 -960px !important
 }
 
-.flair-blue-jersey[title="34"]:before,.flair-black-jersey[title="34"]:before,.flair-white-jersey[title="34"]:before {
-    background-position: 0 -990px!important
+.flair-blue-jersey[title="34"]:before, .flair-black-jersey[title="34"]:before, .flair-white-jersey[title="34"]:before {
+    background-position: 0 -990px !important
 }
 
-.flair-blue-jersey[title="35"]:before,.flair-black-jersey[title="35"]:before,.flair-white-jersey[title="35"]:before {
-    background-position: 0 -1020px!important
+.flair-blue-jersey[title="35"]:before, .flair-black-jersey[title="35"]:before, .flair-white-jersey[title="35"]:before {
+    background-position: 0 -1020px !important
 }
 
-.flair-blue-jersey[title="36"]:before,.flair-black-jersey[title="36"]:before,.flair-white-jersey[title="36"]:before {
-    background-position: 0 -1050px!important
+.flair-blue-jersey[title="36"]:before, .flair-black-jersey[title="36"]:before, .flair-white-jersey[title="36"]:before {
+    background-position: 0 -1050px !important
 }
 
-.flair-blue-jersey[title="37"]:before,.flair-black-jersey[title="37"]:before,.flair-white-jersey[title="37"]:before {
-    background-position: 0 -1080px!important
+.flair-blue-jersey[title="37"]:before, .flair-black-jersey[title="37"]:before, .flair-white-jersey[title="37"]:before {
+    background-position: 0 -1080px !important
 }
 
-.flair-blue-jersey[title="38"]:before,.flair-black-jersey[title="38"]:before,.flair-white-jersey[title="38"]:before {
-    background-position: 0 -1110px!important
+.flair-blue-jersey[title="38"]:before, .flair-black-jersey[title="38"]:before, .flair-white-jersey[title="38"]:before {
+    background-position: 0 -1110px !important
 }
 
-.flair-blue-jersey[title="39"]:before,.flair-black-jersey[title="39"]:before,.flair-white-jersey[title="39"]:before {
-    background-position: 0 -1140px!important
+.flair-blue-jersey[title="39"]:before, .flair-black-jersey[title="39"]:before, .flair-white-jersey[title="39"]:before {
+    background-position: 0 -1140px !important
 }
 
-.flair-blue-jersey[title="40"]:before,.flair-black-jersey[title="40"]:before,.flair-white-jersey[title="40"]:before {
-    background-position: 0 -1170px!important
+.flair-blue-jersey[title="40"]:before, .flair-black-jersey[title="40"]:before, .flair-white-jersey[title="40"]:before {
+    background-position: 0 -1170px !important
 }
 
-.flair-blue-jersey[title="41"]:before,.flair-black-jersey[title="41"]:before,.flair-white-jersey[title="41"]:before {
-    background-position: 0 -1200px!important
+.flair-blue-jersey[title="41"]:before, .flair-black-jersey[title="41"]:before, .flair-white-jersey[title="41"]:before {
+    background-position: 0 -1200px !important
 }
 
-.flair-blue-jersey[title="42"]:before,.flair-black-jersey[title="42"]:before,.flair-white-jersey[title="42"]:before {
-    background-position: 0 -1230px!important
+.flair-blue-jersey[title="42"]:before, .flair-black-jersey[title="42"]:before, .flair-white-jersey[title="42"]:before {
+    background-position: 0 -1230px !important
 }
 
-.flair-blue-jersey[title="43"]:before,.flair-black-jersey[title="43"]:before,.flair-white-jersey[title="43"]:before {
-    background-position: 0 -1260px!important
+.flair-blue-jersey[title="43"]:before, .flair-black-jersey[title="43"]:before, .flair-white-jersey[title="43"]:before {
+    background-position: 0 -1260px !important
 }
 
-.flair-blue-jersey[title="44"]:before,.flair-black-jersey[title="44"]:before,.flair-white-jersey[title="44"]:before {
-    background-position: 0 -1290px!important
+.flair-blue-jersey[title="44"]:before, .flair-black-jersey[title="44"]:before, .flair-white-jersey[title="44"]:before {
+    background-position: 0 -1290px !important
 }
 
-.flair-blue-jersey[title="45"]:before,.flair-black-jersey[title="45"]:before,.flair-white-jersey[title="45"]:before {
-    background-position: 0 -1320px!important
+.flair-blue-jersey[title="45"]:before, .flair-black-jersey[title="45"]:before, .flair-white-jersey[title="45"]:before {
+    background-position: 0 -1320px !important
 }
 
-.flair-blue-jersey[title="46"]:before,.flair-black-jersey[title="46"]:before,.flair-white-jersey[title="46"]:before {
-    background-position: 0 -1350px!important
+.flair-blue-jersey[title="46"]:before, .flair-black-jersey[title="46"]:before, .flair-white-jersey[title="46"]:before {
+    background-position: 0 -1350px !important
 }
 
-.flair-blue-jersey[title="47"]:before,.flair-black-jersey[title="47"]:before,.flair-white-jersey[title="47"]:before {
-    background-position: 0 -1380px!important
+.flair-blue-jersey[title="47"]:before, .flair-black-jersey[title="47"]:before, .flair-white-jersey[title="47"]:before {
+    background-position: 0 -1380px !important
 }
 
-.flair-blue-jersey[title="48"]:before,.flair-black-jersey[title="48"]:before,.flair-white-jersey[title="48"]:before {
-    background-position: 0 -1410px!important
+.flair-blue-jersey[title="48"]:before, .flair-black-jersey[title="48"]:before, .flair-white-jersey[title="48"]:before {
+    background-position: 0 -1410px !important
 }
 
-.flair-blue-jersey[title="49"]:before,.flair-black-jersey[title="49"]:before,.flair-white-jersey[title="49"]:before {
-    background-position: 0 -1440px!important
+.flair-blue-jersey[title="49"]:before, .flair-black-jersey[title="49"]:before, .flair-white-jersey[title="49"]:before {
+    background-position: 0 -1440px !important
 }
 
-.flair-blue-jersey[title="50"]:before,.flair-black-jersey[title="50"]:before,.flair-white-jersey[title="50"]:before {
-    background-position: 0 -1470px!important
+.flair-blue-jersey[title="50"]:before, .flair-black-jersey[title="50"]:before, .flair-white-jersey[title="50"]:before {
+    background-position: 0 -1470px !important
 }
 
-.flair-blue-jersey[title="51"]:before,.flair-black-jersey[title="51"]:before,.flair-white-jersey[title="51"]:before {
-    background-position: 0 -1500px!important
+.flair-blue-jersey[title="51"]:before, .flair-black-jersey[title="51"]:before, .flair-white-jersey[title="51"]:before {
+    background-position: 0 -1500px !important
 }
 
-.flair-blue-jersey[title="52"]:before,.flair-black-jersey[title="52"]:before,.flair-white-jersey[title="52"]:before {
-    background-position: 0 -1530px!important
+.flair-blue-jersey[title="52"]:before, .flair-black-jersey[title="52"]:before, .flair-white-jersey[title="52"]:before {
+    background-position: 0 -1530px !important
 }
 
-.flair-blue-jersey[title="53"]:before,.flair-black-jersey[title="53"]:before,.flair-white-jersey[title="53"]:before {
-    background-position: 0 -1560px!important
+.flair-blue-jersey[title="53"]:before, .flair-black-jersey[title="53"]:before, .flair-white-jersey[title="53"]:before {
+    background-position: 0 -1560px !important
 }
 
-.flair-blue-jersey[title="54"]:before,.flair-black-jersey[title="54"]:before,.flair-white-jersey[title="54"]:before {
-    background-position: 0 -1590px!important
+.flair-blue-jersey[title="54"]:before, .flair-black-jersey[title="54"]:before, .flair-white-jersey[title="54"]:before {
+    background-position: 0 -1590px !important
 }
 
-.flair-blue-jersey[title="55"]:before,.flair-black-jersey[title="55"]:before,.flair-white-jersey[title="55"]:before {
-    background-position: 0 -1620px!important
+.flair-blue-jersey[title="55"]:before, .flair-black-jersey[title="55"]:before, .flair-white-jersey[title="55"]:before {
+    background-position: 0 -1620px !important
 }
 
-.flair-blue-jersey[title="56"]:before,.flair-black-jersey[title="56"]:before,.flair-white-jersey[title="56"]:before {
-    background-position: 0 -1650px!important
+.flair-blue-jersey[title="56"]:before, .flair-black-jersey[title="56"]:before, .flair-white-jersey[title="56"]:before {
+    background-position: 0 -1650px !important
 }
 
-.flair-blue-jersey[title="57"]:before,.flair-black-jersey[title="57"]:before,.flair-white-jersey[title="57"]:before {
-    background-position: 0 -1680px!important
+.flair-blue-jersey[title="57"]:before, .flair-black-jersey[title="57"]:before, .flair-white-jersey[title="57"]:before {
+    background-position: 0 -1680px !important
 }
 
-.flair-blue-jersey[title="58"]:before,.flair-black-jersey[title="58"]:before,.flair-white-jersey[title="58"]:before {
-    background-position: 0 -1710px!important
+.flair-blue-jersey[title="58"]:before, .flair-black-jersey[title="58"]:before, .flair-white-jersey[title="58"]:before {
+    background-position: 0 -1710px !important
 }
 
-.flair-blue-jersey[title="59"]:before,.flair-black-jersey[title="59"]:before,.flair-white-jersey[title="59"]:before {
-    background-position: 0 -1740px!important
+.flair-blue-jersey[title="59"]:before, .flair-black-jersey[title="59"]:before, .flair-white-jersey[title="59"]:before {
+    background-position: 0 -1740px !important
 }
 
-.flair-blue-jersey[title="60"]:before,.flair-black-jersey[title="60"]:before,.flair-white-jersey[title="60"]:before {
-    background-position: 0 -1770px!important
+.flair-blue-jersey[title="60"]:before, .flair-black-jersey[title="60"]:before, .flair-white-jersey[title="60"]:before {
+    background-position: 0 -1770px !important
 }
 
-.flair-blue-jersey[title="61"]:before,.flair-black-jersey[title="61"]:before,.flair-white-jersey[title="61"]:before {
-    background-position: 0 -1800px!important
+.flair-blue-jersey[title="61"]:before, .flair-black-jersey[title="61"]:before, .flair-white-jersey[title="61"]:before {
+    background-position: 0 -1800px !important
 }
 
-.flair-blue-jersey[title="62"]:before,.flair-black-jersey[title="62"]:before,.flair-white-jersey[title="62"]:before {
-    background-position: 0 -1830px!important
+.flair-blue-jersey[title="62"]:before, .flair-black-jersey[title="62"]:before, .flair-white-jersey[title="62"]:before {
+    background-position: 0 -1830px !important
 }
 
-.flair-blue-jersey[title="63"]:before,.flair-black-jersey[title="63"]:before,.flair-white-jersey[title="63"]:before {
-    background-position: 0 -1860px!important
+.flair-blue-jersey[title="63"]:before, .flair-black-jersey[title="63"]:before, .flair-white-jersey[title="63"]:before {
+    background-position: 0 -1860px !important
 }
 
-.flair-blue-jersey[title="64"]:before,.flair-black-jersey[title="64"]:before,.flair-white-jersey[title="64"]:before {
-    background-position: 0 -1890px!important
+.flair-blue-jersey[title="64"]:before, .flair-black-jersey[title="64"]:before, .flair-white-jersey[title="64"]:before {
+    background-position: 0 -1890px !important
 }
 
-.flair-blue-jersey[title="65"]:before,.flair-black-jersey[title="65"]:before,.flair-white-jersey[title="65"]:before {
-    background-position: 0 -1920px!important
+.flair-blue-jersey[title="65"]:before, .flair-black-jersey[title="65"]:before, .flair-white-jersey[title="65"]:before {
+    background-position: 0 -1920px !important
 }
 
-.flair-blue-jersey[title="66"]:before,.flair-black-jersey[title="66"]:before,.flair-white-jersey[title="66"]:before {
-    background-position: 0 -1950px!important
+.flair-blue-jersey[title="66"]:before, .flair-black-jersey[title="66"]:before, .flair-white-jersey[title="66"]:before {
+    background-position: 0 -1950px !important
 }
 
-.flair-blue-jersey[title="67"]:before,.flair-black-jersey[title="67"]:before,.flair-white-jersey[title="67"]:before {
-    background-position: 0 -1980px!important
+.flair-blue-jersey[title="67"]:before, .flair-black-jersey[title="67"]:before, .flair-white-jersey[title="67"]:before {
+    background-position: 0 -1980px !important
 }
 
-.flair-blue-jersey[title="68"]:before,.flair-black-jersey[title="68"]:before,.flair-white-jersey[title="68"]:before {
-    background-position: 0 -2010px!important
+.flair-blue-jersey[title="68"]:before, .flair-black-jersey[title="68"]:before, .flair-white-jersey[title="68"]:before {
+    background-position: 0 -2010px !important
 }
 
-.flair-blue-jersey[title="69"]:before,.flair-black-jersey[title="69"]:before,.flair-white-jersey[title="69"]:before {
-    background-position: 0 -2040px!important
+.flair-blue-jersey[title="69"]:before, .flair-black-jersey[title="69"]:before, .flair-white-jersey[title="69"]:before {
+    background-position: 0 -2040px !important
 }
 
-.flair-blue-jersey[title="70"]:before,.flair-black-jersey[title="70"]:before,.flair-white-jersey[title="70"]:before {
-    background-position: 0 -2070px!important
+.flair-blue-jersey[title="70"]:before, .flair-black-jersey[title="70"]:before, .flair-white-jersey[title="70"]:before {
+    background-position: 0 -2070px !important
 }
 
-.flair-blue-jersey[title="71"]:before,.flair-black-jersey[title="71"]:before,.flair-white-jersey[title="71"]:before {
-    background-position: 0 -2100px!important
+.flair-blue-jersey[title="71"]:before, .flair-black-jersey[title="71"]:before, .flair-white-jersey[title="71"]:before {
+    background-position: 0 -2100px !important
 }
 
-.flair-blue-jersey[title="72"]:before,.flair-black-jersey[title="72"]:before,.flair-white-jersey[title="72"]:before {
-    background-position: 0 -2130px!important
+.flair-blue-jersey[title="72"]:before, .flair-black-jersey[title="72"]:before, .flair-white-jersey[title="72"]:before {
+    background-position: 0 -2130px !important
 }
 
-.flair-blue-jersey[title="73"]:before,.flair-black-jersey[title="73"]:before,.flair-white-jersey[title="73"]:before {
-    background-position: 0 -2160px!important
+.flair-blue-jersey[title="73"]:before, .flair-black-jersey[title="73"]:before, .flair-white-jersey[title="73"]:before {
+    background-position: 0 -2160px !important
 }
 
-.flair-blue-jersey[title="74"]:before,.flair-black-jersey[title="74"]:before,.flair-white-jersey[title="74"]:before {
-    background-position: 0 -2190px!important
+.flair-blue-jersey[title="74"]:before, .flair-black-jersey[title="74"]:before, .flair-white-jersey[title="74"]:before {
+    background-position: 0 -2190px !important
 }
 
-.flair-blue-jersey[title="75"]:before,.flair-black-jersey[title="75"]:before,.flair-white-jersey[title="75"]:before {
-    background-position: 0 -2220px!important
+.flair-blue-jersey[title="75"]:before, .flair-black-jersey[title="75"]:before, .flair-white-jersey[title="75"]:before {
+    background-position: 0 -2220px !important
 }
 
-.flair-blue-jersey[title="76"]:before,.flair-black-jersey[title="76"]:before,.flair-white-jersey[title="76"]:before {
-    background-position: 0 -2250px!important
+.flair-blue-jersey[title="76"]:before, .flair-black-jersey[title="76"]:before, .flair-white-jersey[title="76"]:before {
+    background-position: 0 -2250px !important
 }
 
-.flair-blue-jersey[title="77"]:before,.flair-black-jersey[title="77"]:before,.flair-white-jersey[title="77"]:before {
-    background-position: 0 -2280px!important
+.flair-blue-jersey[title="77"]:before, .flair-black-jersey[title="77"]:before, .flair-white-jersey[title="77"]:before {
+    background-position: 0 -2280px !important
 }
 
-.flair-blue-jersey[title="78"]:before,.flair-black-jersey[title="78"]:before,.flair-white-jersey[title="78"]:before {
-    background-position: 0 -2310px!important
+.flair-blue-jersey[title="78"]:before, .flair-black-jersey[title="78"]:before, .flair-white-jersey[title="78"]:before {
+    background-position: 0 -2310px !important
 }
 
-.flair-blue-jersey[title="79"]:before,.flair-black-jersey[title="79"]:before,.flair-white-jersey[title="79"]:before {
-    background-position: 0 -2340px!important
+.flair-blue-jersey[title="79"]:before, .flair-black-jersey[title="79"]:before, .flair-white-jersey[title="79"]:before {
+    background-position: 0 -2340px !important
 }
 
-.flair-blue-jersey[title="80"]:before,.flair-black-jersey[title="80"]:before,.flair-white-jersey[title="80"]:before {
-    background-position: 0 -2370px!important
+.flair-blue-jersey[title="80"]:before, .flair-black-jersey[title="80"]:before, .flair-white-jersey[title="80"]:before {
+    background-position: 0 -2370px !important
 }
 
-.flair-blue-jersey[title="81"]:before,.flair-black-jersey[title="81"]:before,.flair-white-jersey[title="81"]:before {
-    background-position: 0 -2400px!important
+.flair-blue-jersey[title="81"]:before, .flair-black-jersey[title="81"]:before, .flair-white-jersey[title="81"]:before {
+    background-position: 0 -2400px !important
 }
 
-.flair-blue-jersey[title="82"]:before,.flair-black-jersey[title="82"]:before,.flair-white-jersey[title="82"]:before {
-    background-position: 0 -2430px!important
+.flair-blue-jersey[title="82"]:before, .flair-black-jersey[title="82"]:before, .flair-white-jersey[title="82"]:before {
+    background-position: 0 -2430px !important
 }
 
-.flair-blue-jersey[title="83"]:before,.flair-black-jersey[title="83"]:before,.flair-white-jersey[title="83"]:before {
-    background-position: 0 -2460px!important
+.flair-blue-jersey[title="83"]:before, .flair-black-jersey[title="83"]:before, .flair-white-jersey[title="83"]:before {
+    background-position: 0 -2460px !important
 }
 
-.flair-blue-jersey[title="84"]:before,.flair-black-jersey[title="84"]:before,.flair-white-jersey[title="84"]:before {
-    background-position: 0 -2490px!important
+.flair-blue-jersey[title="84"]:before, .flair-black-jersey[title="84"]:before, .flair-white-jersey[title="84"]:before {
+    background-position: 0 -2490px !important
 }
 
-.flair-blue-jersey[title="85"]:before,.flair-black-jersey[title="85"]:before,.flair-white-jersey[title="85"]:before {
-    background-position: 0 -2520px!important
+.flair-blue-jersey[title="85"]:before, .flair-black-jersey[title="85"]:before, .flair-white-jersey[title="85"]:before {
+    background-position: 0 -2520px !important
 }
 
-.flair-blue-jersey[title="86"]:before,.flair-black-jersey[title="86"]:before,.flair-white-jersey[title="86"]:before {
-    background-position: 0 -2550px!important
+.flair-blue-jersey[title="86"]:before, .flair-black-jersey[title="86"]:before, .flair-white-jersey[title="86"]:before {
+    background-position: 0 -2550px !important
 }
 
-.flair-blue-jersey[title="87"]:before,.flair-black-jersey[title="87"]:before,.flair-white-jersey[title="87"]:before {
-    background-position: 0 -2580px!important
+.flair-blue-jersey[title="87"]:before, .flair-black-jersey[title="87"]:before, .flair-white-jersey[title="87"]:before {
+    background-position: 0 -2580px !important
 }
 
-.flair-blue-jersey[title="88"]:before,.flair-black-jersey[title="88"]:before,.flair-white-jersey[title="88"]:before {
-    background-position: 0 -2610px!important
+.flair-blue-jersey[title="88"]:before, .flair-black-jersey[title="88"]:before, .flair-white-jersey[title="88"]:before {
+    background-position: 0 -2610px !important
 }
 
-.flair-blue-jersey[title="89"]:before,.flair-black-jersey[title="89"]:before,.flair-white-jersey[title="89"]:before {
-    background-position: 0 -2640px!important
+.flair-blue-jersey[title="89"]:before, .flair-black-jersey[title="89"]:before, .flair-white-jersey[title="89"]:before {
+    background-position: 0 -2640px !important
 }
 
-.flair-blue-jersey[title="90"]:before,.flair-black-jersey[title="90"]:before,.flair-white-jersey[title="90"]:before {
-    background-position: 0 -2670px!important
+.flair-blue-jersey[title="90"]:before, .flair-black-jersey[title="90"]:before, .flair-white-jersey[title="90"]:before {
+    background-position: 0 -2670px !important
 }
 
-.flair-blue-jersey[title="91"]:before,.flair-black-jersey[title="91"]:before,.flair-white-jersey[title="91"]:before {
-    background-position: 0 -2700px!important
+.flair-blue-jersey[title="91"]:before, .flair-black-jersey[title="91"]:before, .flair-white-jersey[title="91"]:before {
+    background-position: 0 -2700px !important
 }
 
-.flair-blue-jersey[title="92"]:before,.flair-black-jersey[title="92"]:before,.flair-white-jersey[title="92"]:before {
-    background-position: 0 -2730px!important
+.flair-blue-jersey[title="92"]:before, .flair-black-jersey[title="92"]:before, .flair-white-jersey[title="92"]:before {
+    background-position: 0 -2730px !important
 }
 
-.flair-blue-jersey[title="93"]:before,.flair-black-jersey[title="93"]:before,.flair-white-jersey[title="93"]:before {
-    background-position: 0 -2760px!important
+.flair-blue-jersey[title="93"]:before, .flair-black-jersey[title="93"]:before, .flair-white-jersey[title="93"]:before {
+    background-position: 0 -2760px !important
 }
 
-.flair-blue-jersey[title="94"]:before,.flair-black-jersey[title="94"]:before,.flair-white-jersey[title="94"]:before {
-    background-position: 0 -2790px!important
+.flair-blue-jersey[title="94"]:before, .flair-black-jersey[title="94"]:before, .flair-white-jersey[title="94"]:before {
+    background-position: 0 -2790px !important
 }
 
-.flair-blue-jersey[title="95"]:before,.flair-black-jersey[title="95"]:before,.flair-white-jersey[title="95"]:before {
-    background-position: 0 -2820px!important
+.flair-blue-jersey[title="95"]:before, .flair-black-jersey[title="95"]:before, .flair-white-jersey[title="95"]:before {
+    background-position: 0 -2820px !important
 }
 
-.flair-blue-jersey[title="96"]:before,.flair-black-jersey[title="96"]:before,.flair-white-jersey[title="96"]:before {
-    background-position: 0 -2850px!important
+.flair-blue-jersey[title="96"]:before, .flair-black-jersey[title="96"]:before, .flair-white-jersey[title="96"]:before {
+    background-position: 0 -2850px !important
 }
 
-.flair-blue-jersey[title="97"]:before,.flair-black-jersey[title="97"]:before,.flair-white-jersey[title="97"]:before {
-    background-position: 0 -2880px!important
+.flair-blue-jersey[title="97"]:before, .flair-black-jersey[title="97"]:before, .flair-white-jersey[title="97"]:before {
+    background-position: 0 -2880px !important
 }
 
-.flair-blue-jersey[title="98"]:before,.flair-black-jersey[title="98"]:before,.flair-white-jersey[title="98"]:before {
-    background-position: 0 -2910px!important
+.flair-blue-jersey[title="98"]:before, .flair-black-jersey[title="98"]:before, .flair-white-jersey[title="98"]:before {
+    background-position: 0 -2910px !important
 }
 
-.flair-blue-jersey[title="99"]:before,.flair-black-jersey[title="99"]:before,.flair-white-jersey[title="99"]:before {
-    background-position: 0 -2940px!important
+.flair-blue-jersey[title="99"]:before, .flair-black-jersey[title="99"]:before, .flair-white-jersey[title="99"]:before {
+    background-position: 0 -2940px !important
 }
 
-.flair-blue-jersey[title="00"]:before,.flair-black-jersey[title="00"]:before,.flair-white-jersey[title="00"]:before {
-    background-position: 0 -2970px!important
+.flair-blue-jersey[title="00"]:before, .flair-black-jersey[title="00"]:before, .flair-white-jersey[title="00"]:before {
+    background-position: 0 -2970px !important
 }
 
-.flair-blue-jersey[title="0"]:before,.flair-black-jersey[title="0"]:before,.flair-blue-jersey[title="0"]:before {
-    background-position: 0 -2970px!important
+.flair-blue-jersey[title="0"]:before, .flair-black-jersey[title="0"]:before, .flair-blue-jersey[title="0"]:before {
+    background-position: 0 -2970px !important
 }
 
-.flair-bojang1:before,.flair-bojang2:before,.flair-bojang3:before,.flair-kalil-bear:before,.flair-tolbert-dance:before,.flair-cheerwine-can:before,.flair-towel-cam:before,.flair-jerry1:before,.flair-two-states:before,.flair-cheerwine-logo:before,.flair-supercam1:before,.flair-riverboat-ron:before,.flair-aunt-thor:before,.flair-cook-out:before,.flair-old-logo:before,.flair-bojang4:before,.flair-keeppounding:before,.flair-boberry:before,.flair-first-down:before,.flair-superpanthers:before,.flair-jerry2:before,.flair-mattryan:before,.flair-cam1:before,.flair-kalil1:before,.flair-cam2:before,.flair-cam3:before,.flair-davis1:before,.flair-davis2:before,.flair-actual-panther:before,.flair-topcats:before,.flair-olsen1:before,.flair-olsen2:before,.flair-benji1:before,.flair-dub-trub:before,.flair-luke1:before,.flair-luke2:before,.flair-bojang5:before,.flair-cam4:before,.flair-div-champs:before,.flair-supercam2:before,.flair-olsen3:before,.flair-stewart1:before,.flair-davis3:before,.flair-luke3:before,.flair-olsen4:before,.flair-drewraff:before,.flair-gross1:before,.flair-purr:before {
-    background-image: url("//b.thumbs.redditmedia.com/lr5EdFEXQIWKoXTnE-DDp3Jyltkv8efX_n89hTuY0fM.png")!important
+.flair-bojang1:before, .flair-bojang2:before, .flair-bojang3:before, .flair-kalil-bear:before, .flair-tolbert-dance:before, .flair-cheerwine-can:before, .flair-towel-cam:before, .flair-jerry1:before, .flair-two-states:before, .flair-cheerwine-logo:before, .flair-supercam1:before, .flair-riverboat-ron:before, .flair-aunt-thor:before, .flair-cook-out:before, .flair-old-logo:before, .flair-bojang4:before, .flair-keeppounding:before, .flair-boberry:before, .flair-first-down:before, .flair-superpanthers:before, .flair-jerry2:before, .flair-mattryan:before, .flair-cam1:before, .flair-kalil1:before, .flair-cam2:before, .flair-cam3:before, .flair-davis1:before, .flair-davis2:before, .flair-actual-panther:before, .flair-topcats:before, .flair-olsen1:before, .flair-olsen2:before, .flair-benji1:before, .flair-dub-trub:before, .flair-luke1:before, .flair-luke2:before, .flair-bojang5:before, .flair-cam4:before, .flair-div-champs:before, .flair-supercam2:before, .flair-olsen3:before, .flair-stewart1:before, .flair-davis3:before, .flair-luke3:before, .flair-olsen4:before, .flair-drewraff:before, .flair-gross1:before, .flair-purr:before {
+    background-image: url("//b.thumbs.redditmedia.com/lr5EdFEXQIWKoXTnE-DDp3Jyltkv8efX_n89hTuY0fM.png") !important
 }
 
-.flair-tolbert1:before,.flair-sundrop:before,.flair-norman1:before,.flair-roman1:before,.flair-purrbacca:before,.flair-waffle1:before,.flair-waffle2:before,.flair-jared1:before,.flair-funchess1:before,.flair-gano1:before,.flair-lee1:before,.flair-banana:before {
-    background-image: url("//b.thumbs.redditmedia.com/TEcqKKhPPxZNmhlKr0an9o38btdXEpKFVW-ao9AXimA.png")!important
+.flair-tolbert1:before, .flair-sundrop:before, .flair-norman1:before, .flair-roman1:before, .flair-purrbacca:before, .flair-waffle1:before, .flair-waffle2:before, .flair-jared1:before, .flair-funchess1:before, .flair-gano1:before, .flair-lee1:before, .flair-banana:before {
+    background-image: url("//b.thumbs.redditmedia.com/TEcqKKhPPxZNmhlKr0an9o38btdXEpKFVW-ao9AXimA.png") !important
 }
 
-.flair-cam3,.flair-cam1,.flair-bojang5,.flair-cheerwine-can,.flair-towel-cam {
+.flair-cam3, .flair-cam1, .flair-bojang5, .flair-cheerwine-can, .flair-towel-cam {
     width: 30px
 }
 
-.flair-keeppounding,.flair-waffle2,.flair-waffle1,.flair-bojang3,.flair-bojang4,.flair-cheerwine-logo {
+.flair-keeppounding, .flair-waffle2, .flair-waffle1, .flair-bojang3, .flair-bojang4, .flair-cheerwine-logo {
     width: 40px
 }
 
@@ -2397,22 +2397,22 @@ a[href$="/AFC"]::before {
 
 .flair-bojang1:before {
     background-position: 0 0;
-    width: 70px!important
+    width: 70px !important
 }
 
 .flair-cheerwine-can:before {
     background-position: 0 -32px;
-    width: 50px!important
+    width: 50px !important
 }
 
 .flair-bojang2:before {
     background-position: 0 -80px;
-    width: 60px!important
+    width: 60px !important
 }
 
 .flair-towel-cam:before {
     background-position: 0 -120px;
-    width: 60px!important
+    width: 60px !important
 }
 
 .flair-jerry1:before {
@@ -2447,7 +2447,7 @@ a[href$="/AFC"]::before {
 
 .flair-aunt-thor:before {
     background-position: 0 -400px;
-    width: 60px!important
+    width: 60px !important
 }
 
 .flair-cook-out:before {
@@ -2457,7 +2457,7 @@ a[href$="/AFC"]::before {
 
 .flair-old-logo:before {
     background-position: 0 -394px;
-    width: 50px!important
+    width: 50px !important
 }
 
 .flair-bojang5:before {
@@ -2477,7 +2477,7 @@ a[href$="/AFC"]::before {
 
 .flair-bojang4:before {
     background-position: 10px -650px;
-    width: 70px!important
+    width: 70px !important
 }
 
 .flair-boberry:before {
@@ -2703,23 +2703,23 @@ a[href$="/AFC"]::before {
     background-position: 5px
 }
 
-div.side .md h6+h1,div.side .md h4+h1 {
-    margin-top: 20px!important
+div.side .md h6 + h1, div.side .md h4 + h1 {
+    margin-top: 20px !important
 }
 
-.md h6+h6+h6+table {
+.md h6 + h6 + h6 + table {
     width: 298px;
     color: white;
-    border: 4px solid white!important;
+    border: 4px solid white !important;
     border-collapse: collapse;
     margin: auto;
-    font-family: Lato,Futura,"Franklin Gothic Medium",Verdana,"Helvetica Neue",Helvetica,Arial,sans-serif;
-    -webkit-box-shadow: 0 0 1px rgba(0,136,206,1);
-    -moz-box-shadow: 0 1px 0 rgba(0,136,206,1);
-    box-shadow: 0 0 1px rgba(0,136,206,1)
+    font-family: Lato, Futura, "Franklin Gothic Medium", Verdana, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    -webkit-box-shadow: 0 0 1px rgba(0, 136, 206, 1);
+    -moz-box-shadow: 0 1px 0 rgba(0, 136, 206, 1);
+    box-shadow: 0 0 1px rgba(0, 136, 206, 1)
 }
 
-.md h6+h6+h6+table tr {
+.md h6 + h6 + h6 + table tr {
     height: 25px;
     background: url("//b.thumbs.redditmedia.com/H80IUJYLl_RCeCmcI1nItRs5QBBZomi5oTAhNtmFUng.png") no-repeat;
     background-size: 290px;
@@ -2729,26 +2729,26 @@ div.side .md h6+h1,div.side .md h4+h1 {
     border-bottom: 1px solid white
 }
 
-.md h6+h6+h6+table tr:nth-child(even) {
+.md h6 + h6 + h6 + table tr:nth-child(even) {
     background-position: 0 -62px
 }
 
-.md h6+h6+h6+table th {
+.md h6 + h6 + h6 + table th {
     background: none;
     padding: 0
 }
 
-.md h6+h6+h6+table thead tr,.md h6+h6+h6+table tbody tr:last-child {
+.md h6 + h6 + h6 + table thead tr, .md h6 + h6 + h6 + table tbody tr:last-child {
     height: 53px;
     background: url("//b.thumbs.redditmedia.com/H80IUJYLl_RCeCmcI1nItRs5QBBZomi5oTAhNtmFUng.png") no-repeat;
     background-size: 290px
 }
 
-.md h6+h6+h6+table tbody tr:last-child {
+.md h6 + h6 + h6 + table tbody tr:last-child {
     background-position: 0 -246px
 }
 
-.md h6+h6+h6+table td,.md h6+h6+h6+table tr:nth-child(12) td:nth-child(4) {
+.md h6 + h6 + h6 + table td, .md h6 + h6 + h6 + table tr:nth-child(12) td:nth-child(4) {
     background: transparent;
     height: 19px;
     display: block;
@@ -2757,11 +2757,11 @@ div.side .md h6+h1,div.side .md h4+h1 {
     border: 0
 }
 
-.md h6+h6+h6+table th {
+.md h6 + h6 + h6 + table th {
     border: 0
 }
 
-.md td a[href$="/r/panthers"],.md td a[href$="/r/saints"],.md td a[href$="/r/falcons"],.md td a[href$="/r/buccaneers"],.md td a[href$="/r/seahawks"],.md td a[href$="/r/azcardinals"],.md td a[href$="/r/49ers"],.md td a[href$="/r/losangelesrams"],.md td a[href$="/r/GreenBayPackers"],.md td a[href$="/r/detroitlions"],.md td a[href$="/r/chibears"],.md td a[href$="/r/minnesotavikings"],.md td a[href$="/r/eagles"],.md td a[href$="/r/nygiants"],.md td a[href$="/r/cowboys"],.md td a[href$="/r/redskins"],.md td a[href$="/r/patriots"],.md td a[href$="/r/miamidolphins"],.md td a[href$="/r/nyjets"],.md td a[href$="/r/buffalobills"],.md td a[href$="/r/steelers"],.md td a[href$="/r/ravens"],.md td a[href$="/r/bengals"],.md td a[href$="/r/browns"],.md td a[href$="/r/texans"],.md td a[href$="/r/colts"],.md td a[href$="/r/jaguars"],.md td a[href$="/r/tennesseetitans"],.md td a[href$="/r/denverbroncos"],.md td a[href$="/r/kansascitychiefs"],.md td a[href$="/r/oaklandraiders"],.md td a[href$="/r/chargers"] {
+.md td a[href$="/r/panthers"], .md td a[href$="/r/saints"], .md td a[href$="/r/falcons"], .md td a[href$="/r/buccaneers"], .md td a[href$="/r/seahawks"], .md td a[href$="/r/azcardinals"], .md td a[href$="/r/49ers"], .md td a[href$="/r/losangelesrams"], .md td a[href$="/r/GreenBayPackers"], .md td a[href$="/r/detroitlions"], .md td a[href$="/r/chibears"], .md td a[href$="/r/minnesotavikings"], .md td a[href$="/r/eagles"], .md td a[href$="/r/nygiants"], .md td a[href$="/r/cowboys"], .md td a[href$="/r/redskins"], .md td a[href$="/r/patriots"], .md td a[href$="/r/miamidolphins"], .md td a[href$="/r/nyjets"], .md td a[href$="/r/buffalobills"], .md td a[href$="/r/steelers"], .md td a[href$="/r/ravens"], .md td a[href$="/r/bengals"], .md td a[href$="/r/browns"], .md td a[href$="/r/texans"], .md td a[href$="/r/colts"], .md td a[href$="/r/jaguars"], .md td a[href$="/r/tennesseetitans"], .md td a[href$="/r/denverbroncos"], .md td a[href$="/r/kansascitychiefs"], .md td a[href$="/r/oaklandraiders"], .md td a[href$="/r/chargers"] {
     display: block;
     background-image: url("//b.thumbs.redditmedia.com/XmDfwii_FoYdrTu-Tfd4jgthBipoz-iR1kX38pGyF5Y.png");
     background-repeat: no-repeat;
@@ -2774,134 +2774,134 @@ div.side .md h6+h1,div.side .md h4+h1 {
 }
 
 .md td a[href$="/r/panthers"] {
-    background-position: 3px -248px!important
+    background-position: 3px -248px !important
 }
 
 .md td a[href$="/r/saints"] {
-    background-position: 3px -1215px!important
+    background-position: 3px -1215px !important
 }
 
 .md td a[href$="/r/falcons"] {
-    background-position: 0 -6px!important
+    background-position: 0 -6px !important
 }
 
 .md td a[href$="/r/buccaneers"] {
-    background-position: 3px -1808px!important
+    background-position: 3px -1808px !important
 }
 
 .md td a[href$="/r/seahawks"] {
-    background-position: 3px -1631px!important
+    background-position: 3px -1631px !important
 }
 
 .md td a[href$="/r/azcardinals"] {
-    background-position: 0 -75px!important
+    background-position: 0 -75px !important
 }
 
 .md td a[href$="/r/49ers"] {
-    background-position: 3px -1692px!important
+    background-position: 3px -1692px !important
 }
 
 .md td a[href$="/r/losangelesrams"] {
-    background-position: 3px -1752px!important
+    background-position: 3px -1752px !important
 }
 
 .md td a[href$="/r/GreenBayPackers"] {
-    background-position: 3px -672px!important
+    background-position: 3px -672px !important
 }
 
 .md td a[href$="/r/detroitlions"] {
-    background-position: 3px -609px!important
+    background-position: 3px -609px !important
 }
 
 .md td a[href$="/r/chibears"] {
-    background-position: 3px -312px!important
+    background-position: 3px -312px !important
 }
 
 .md td a[href$="/r/minnesotavikings"] {
-    background-position: 3px -1030px!important
+    background-position: 3px -1030px !important
 }
 
 .md td a[href$="/r/eagles"] {
-    background-position: 3px -1455px!important
+    background-position: 3px -1455px !important
 }
 
 .md td a[href$="/r/nygiants"] {
-    background-position: 3px -1268px!important
+    background-position: 3px -1268px !important
 }
 
 .md td a[href$="/r/cowboys"] {
-    background-position: 3px -492px!important
+    background-position: 3px -492px !important
 }
 
 .md td a[href$="/r/redskins"] {
-    background-position: 0 -1925px!important
+    background-position: 0 -1925px !important
 }
 
 .md td a[href$="/r/steelers"] {
-    background-position: 3px -1512px!important
+    background-position: 3px -1512px !important
 }
 
 .md td a[href$="/r/ravens"] {
-    background-position: 3px -131px!important
+    background-position: 3px -131px !important
 }
 
 .md td a[href$="/r/bengals"] {
-    background-position: 3px -371px!important
+    background-position: 3px -371px !important
 }
 
 .md td a[href$="/r/browns"] {
-    background-position: 3px -432px!important
+    background-position: 3px -432px !important
 }
 
 .md td a[href$="/r/patriots"] {
-    background-position: 3px -1512px!important
+    background-position: 3px -1512px !important
 }
 
 .md td a[href$="/r/miamidolphins"] {
-    background-position: 3px -131px!important
+    background-position: 3px -131px !important
 }
 
 .md td a[href$="/r/nyjets"] {
-    background-position: 3px -371px!important
+    background-position: 3px -371px !important
 }
 
 .md td a[href$="/r/buffalobills"] {
-    background-position: 3px -432px!important
+    background-position: 3px -432px !important
 }
 
 .md td a[href$="/r/texans"] {
-    background-position: 3px -735px!important
+    background-position: 3px -735px !important
 }
 
 .md td a[href$="/r/colts"] {
-    background-position: 3px -780px!important
+    background-position: 3px -780px !important
 }
 
 .md td a[href$="/r/jaguars"] {
-    background-position: 3px -846px!important
+    background-position: 3px -846px !important
 }
 
 .md td a[href$="/r/tennesseetitans"] {
-    background-position: 0 -1872px!important
+    background-position: 0 -1872px !important
 }
 
 .md td a[href$="/r/denverbroncos"] {
-    background-position: 0 -548px!important
+    background-position: 0 -548px !important
 }
 
 .md td a[href$="/r/kansascitychiefs"] {
-    background-position: 3px -910px!important
+    background-position: 3px -910px !important
 }
 
 .md td a[href$="/r/oaklandraiders"] {
-    background-position: 3px -1388px!important
+    background-position: 3px -1388px !important
 }
 
 .md td a[href$="/r/chargers"] {
-    background-position: 3px -1568px!important
+    background-position: 3px -1568px !important
 }
 
-.md h6+h6+h6+table td a[href$="/foxtv"],.md h6+h6+h6+table td a[href$="/cbstv"],.md h6+h6+h6+table td a[href$="/nbctv"],.md h6+h6+h6+table td a[href$="/nfltv"],.md h6+h6+h6+table td a[href$="/espntv"] {
+.md h6 + h6 + h6 + table td a[href$="/foxtv"], .md h6 + h6 + h6 + table td a[href$="/cbstv"], .md h6 + h6 + h6 + table td a[href$="/nbctv"], .md h6 + h6 + h6 + table td a[href$="/nfltv"], .md h6 + h6 + h6 + table td a[href$="/espntv"] {
     display: block;
     background-image: url("//b.thumbs.redditmedia.com/_pU8Q_Db280R_SZg1fDFp3TQgqrj5j6LxpOXhtEQlYQ.png");
     background-repeat: no-repeat;
@@ -2909,77 +2909,77 @@ div.side .md h6+h1,div.side .md h4+h1 {
     background-position: 0 0;
     height: 22px;
     width: 35px;
-    margin-top: -4px!important
+    margin-top: -4px !important
 }
 
-.md h6+h6+h6+table td a[href$="/foxtv"] {
-    background-position: -12px -78px!important
+.md h6 + h6 + h6 + table td a[href$="/foxtv"] {
+    background-position: -12px -78px !important
 }
 
-.md h6+h6+h6+table td a[href$="/cbstv"] {
-    background-position: -15px -2px!important;
+.md h6 + h6 + h6 + table td a[href$="/cbstv"] {
+    background-position: -15px -2px !important;
     margin-left: 3px
 }
 
-.md h6+h6+h6+table td a[href$="/nbctv"] {
-    background-position: -10px -25px!important
+.md h6 + h6 + h6 + table td a[href$="/nbctv"] {
+    background-position: -10px -25px !important
 }
 
-.md h6+h6+h6+table td a[href$="/nfltv"] {
-    background-position: -9px -50px!important
+.md h6 + h6 + h6 + table td a[href$="/nfltv"] {
+    background-position: -9px -50px !important
 }
 
-.md h6+h6+h6+table td a[href$="/espntv"] {
-    background-position: -9px -100px!important
+.md h6 + h6 + h6 + table td a[href$="/espntv"] {
+    background-position: -9px -100px !important
 }
 
-.md h6+h6+h6+table td:nth-child(1) {
+.md h6 + h6 + h6 + table td:nth-child(1) {
     width: 28px;
     opacity: 0.8;
     text-align: center
 }
 
-.md h6+h6+h6+table td:nth-child(2) {
+.md h6 + h6 + h6 + table td:nth-child(2) {
     width: 32px;
     opacity: 0.8;
     text-shadow: 1px 1px 1px #000;
     font-weight: bold
 }
 
-.md h6+h6+h6+table td:nth-child(3) {
+.md h6 + h6 + h6 + table td:nth-child(3) {
     width: 57px;
     opacity: 0.8
 }
 
-.md h6+h6+h6+table td:nth-child(4) {
+.md h6 + h6 + h6 + table td:nth-child(4) {
     width: 53px;
-    height: 24px!important;
-    padding: 0!important;
-    text-align: center!important;
+    height: 24px !important;
+    padding: 0 !important;
+    text-align: center !important;
     opacity: 1
 }
 
-.md h6+h6+h6+table td:nth-child(5) {
+.md h6 + h6 + h6 + table td:nth-child(5) {
     width: 54px;
     text-align: center;
     opacity: 0.6;
-    padding-top: 7px!important
+    padding-top: 7px !important
 }
 
-.md h6+h6+h6+table td:nth-child(6) {
+.md h6 + h6 + h6 + table td:nth-child(6) {
     width: 62px;
-    height: 18px!important;
-    padding: 0!important;
+    height: 18px !important;
+    padding: 0 !important;
     opacity: 0.5;
-    padding-top: 7px!important
+    padding-top: 7px !important
 }
 
-.md h6+h6+h6+table td sup {
+.md h6 + h6 + h6 + table td sup {
     vertical-align: top;
     font-size: 8px
 }
 
-.md h6+h6+h6+table tbody tr:nth-child(1) td:nth-child(3),.md h6+h6+h6+table tbody tr:nth-child(4) td:nth-child(3),.md h6+h6+h6+table tbody tr:nth-child(6) td:nth-child(3),.md h6+h6+h6+table tbody tr:nth-child(9) td:nth-child(3),.md h6+h6+h6+table tbody tr:nth-child(12) td:nth-child(3),.md h6+h6+h6+table tbody tr:nth-child(13) td:nth-child(3),.md h6+h6+h6+table tbody tr:nth-child(15) td:nth-child(3),.md h6+h6+h6+table tbody tr:nth-child(17) td:nth-child(3) {
+.md h6 + h6 + h6 + table tbody tr:nth-child(1) td:nth-child(3), .md h6 + h6 + h6 + table tbody tr:nth-child(4) td:nth-child(3), .md h6 + h6 + h6 + table tbody tr:nth-child(6) td:nth-child(3), .md h6 + h6 + h6 + table tbody tr:nth-child(9) td:nth-child(3), .md h6 + h6 + h6 + table tbody tr:nth-child(12) td:nth-child(3), .md h6 + h6 + h6 + table tbody tr:nth-child(13) td:nth-child(3), .md h6 + h6 + h6 + table tbody tr:nth-child(15) td:nth-child(3), .md h6 + h6 + h6 + table tbody tr:nth-child(17) td:nth-child(3) {
     background: url("//b.thumbs.redditmedia.com/Hc22eRtVWK0EvmDshrNj19mpYA9mH6TiqF1LLCibQVo.png") no-repeat top right;
     background-size: 18px 21px;
     background-position: 38px 2px
@@ -2989,11 +2989,11 @@ div.side .md h6+h1,div.side .md h4+h1 {
     text-align: center
 }
 
-.linkflair-report.link div.md,.linkflair-gamethread.link div.md {
+.linkflair-report.link div.md, .linkflair-gamethread.link div.md {
     margin: auto
 }
 
-.linkflair-report.link hr+ul,.linkflair-gamethread.link hr+ul {
+.linkflair-report.link hr + ul, .linkflair-gamethread.link hr + ul {
     display: block;
     min-width: 500px;
     width: auto;
@@ -3005,85 +3005,85 @@ div.side .md h6+h1,div.side .md h4+h1 {
     color: white
 }
 
-.linkflair-report.link hr+ul a,.linkflair-gamethread.link hr+ul a {
-    color: #FDFEFE!important;
+.linkflair-report.link hr + ul a, .linkflair-gamethread.link hr + ul a {
+    color: #FDFEFE !important;
     font-weight: bold
 }
 
-.linkflair-report.link hr+ul a:visited,.linkflair-gamethread.link hr+ul a:visited {
-    color: #c0c0c0!important
+.linkflair-report.link hr + ul a:visited, .linkflair-gamethread.link hr + ul a:visited {
+    color: #c0c0c0 !important
 }
 
-.linkflair-report.link hr+ul a:hover,.linkflair-gamethread.link hr+ul a:hover {
-    color: #808000!important
+.linkflair-report.link hr + ul a:hover, .linkflair-gamethread.link hr + ul a:hover {
+    color: #808000 !important
 }
 
-.linkflair-report.link hr+ul li,.linkflair-gamethread.link hr+ul li {
+.linkflair-report.link hr + ul li, .linkflair-gamethread.link hr + ul li {
     padding: 0 10px
 }
 
-.linkflair-report.link ul li,.linkflair-gamethread.link ul li {
+.linkflair-report.link ul li, .linkflair-gamethread.link ul li {
     list-style: none;
     margin: 0
 }
 
-.linkflair-report.link hr+ul li:nth-of-type(1),.linkflair-gamethread.link hr+ul li:nth-of-type(1) {
+.linkflair-report.link hr + ul li:nth-of-type(1), .linkflair-gamethread.link hr + ul li:nth-of-type(1) {
     float: left
 }
 
-.linkflair-report.link hr+ul li:nth-of-type(2),.linkflair-gamethread.link hr+ul li:nth-of-type(2) {
+.linkflair-report.link hr + ul li:nth-of-type(2), .linkflair-gamethread.link hr + ul li:nth-of-type(2) {
     float: right
 }
 
-.linkflair-report.link div.md table,.linkflair-gamethread.link div.md table {
+.linkflair-report.link div.md table, .linkflair-gamethread.link div.md table {
     width: 100%;
     padding: 0;
     margin: 0
 }
 
-.linkflair-report.link div.md td,.linkflair-gamethread.link div.md td,.linkflair-report.link div.md th,.linkflair-gamethread.link div.md th {
+.linkflair-report.link div.md td, .linkflair-gamethread.link div.md td, .linkflair-report.link div.md th, .linkflair-gamethread.link div.md th {
     border: none;
     padding: 5px
 }
 
-.linkflair-report.link div div.expando hr,.linkflair-gamethread.link div div.expando hr {
+.linkflair-report.link div div.expando hr, .linkflair-gamethread.link div div.expando hr {
     display: none
 }
 
-.linkflair-report.link div div.expando hr+p,.linkflair-gamethread.link div div.expando hr+p {
+.linkflair-report.link div div.expando hr + p, .linkflair-gamethread.link div div.expando hr + p {
     overflow: hidden;
     position: relative
 }
 
-.linkflair-report.link div div.expando,.linkflair-gamethread.link div div.expando {
+.linkflair-report.link div div.expando, .linkflair-gamethread.link div div.expando {
     width: auto
 }
 
-.linkflair-report.link a[href$="#at"],.linkflair-gamethread.link a[href$="#at"] {
+.linkflair-report.link a[href$="#at"], .linkflair-gamethread.link a[href$="#at"] {
     position: absolute;
     display: block;
     left: 50%;
     margin-left: -8px;
     top: 32px;
-    color: #000!important
+    color: #000 !important
 }
 
-.linkflair-report.link a[href$="#home"],.linkflair-gamethread.link a[href$="#home"],.linkflair-report.link a[href$="#away"],.linkflair-gamethread.link a[href$="#away"] {
+.linkflair-report.link a[href$="#home"], .linkflair-gamethread.link a[href$="#home"], .linkflair-report.link a[href$="#away"], .linkflair-gamethread.link a[href$="#away"] {
     display: block;
     font-size: 16px;
-    color: #333!important;
+    color: #333 !important;
     line-height: 80px
 }
 
-.linkflair-report.link a[href$="away"],.linkflair-gamethread.link a[href$="away"] {
+.linkflair-report.link a[href$="away"], .linkflair-gamethread.link a[href$="away"] {
     float: left
 }
 
-.linkflair-report.link a[href$="home"],.linkflair-gamethread.link a[href$="home"] {
+.linkflair-report.link a[href$="home"], .linkflair-gamethread.link a[href$="home"] {
     float: right
 }
 
-.linkflair-report.link a[href$="#home"]:after,.linkflair-gamethread.link a[href$="#home"]:after,.linkflair-report.link a[href$="#away"]:before,.linkflair-gamethread.link a[href$="#away"]:before {
+.linkflair-report.link a[href$="#home"]:after, .linkflair-gamethread.link a[href$="#home"]:after, .linkflair-report.link a[href$="#away"]:before, .linkflair-gamethread.link a[href$="#away"]:before {
     display: block;
     height: 80px;
     width: 80px;
@@ -3091,141 +3091,141 @@ div.side .md h6+h1,div.side .md h4+h1 {
     content: ""
 }
 
-.linkflair-report.link a[href$="#away"]:before,.linkflair-gamethread.link a[href$="#away"]:before {
+.linkflair-report.link a[href$="#away"]:before, .linkflair-gamethread.link a[href$="#away"]:before {
     float: left;
     margin: 0 10px 0 0
 }
 
-.linkflair-report.link a[href$="#home"]:after,.linkflair-gamethread.link a[href$="#home"]:after {
+.linkflair-report.link a[href$="#home"]:after, .linkflair-gamethread.link a[href$="#home"]:after {
     float: right;
     margin: 0 0 0 10px
 }
 
-.linkflair-report.link a[href^="/r/azcardinals#"]:after,.linkflair-gamethread.link a[href^="/r/azcardinals#"]:after,.linkflair-report.link a[href^="/r/azcardinals#"]:before,.linkflair-gamethread.link a[href^="/r/azcardinals#"]:before {
+.linkflair-report.link a[href^="/r/azcardinals#"]:after, .linkflair-gamethread.link a[href^="/r/azcardinals#"]:after, .linkflair-report.link a[href^="/r/azcardinals#"]:before, .linkflair-gamethread.link a[href^="/r/azcardinals#"]:before {
     background-position: 0 0
 }
 
-.linkflair-report.link a[href^="/r/falcons#"]:after,.linkflair-gamethread.link a[href^="/r/falcons#"]:after,.linkflair-report.link a[href^="/r/falcons#"]:before,.linkflair-gamethread.link a[href^="/r/falcons#"]:before {
+.linkflair-report.link a[href^="/r/falcons#"]:after, .linkflair-gamethread.link a[href^="/r/falcons#"]:after, .linkflair-report.link a[href^="/r/falcons#"]:before, .linkflair-gamethread.link a[href^="/r/falcons#"]:before {
     background-position: 0 -80px
 }
 
-.linkflair-report.link a[href^="/r/ravens#"]:after,.linkflair-gamethread.link a[href^="/r/ravens#"]:after,.linkflair-report.link a[href^="/r/ravens#"]:before,.linkflair-gamethread.link a[href^="/r/ravens#"]:before {
+.linkflair-report.link a[href^="/r/ravens#"]:after, .linkflair-gamethread.link a[href^="/r/ravens#"]:after, .linkflair-report.link a[href^="/r/ravens#"]:before, .linkflair-gamethread.link a[href^="/r/ravens#"]:before {
     background-position: 0 -160px
 }
 
-.linkflair-report.link a[href^="/r/buffalobills#"]:after,.linkflair-gamethread.link a[href^="/r/buffalobills#"]:after,.linkflair-report.link a[href^="/r/buffalobills#"]:before,.linkflair-gamethread.link a[href^="/r/buffalobills#"]:before {
+.linkflair-report.link a[href^="/r/buffalobills#"]:after, .linkflair-gamethread.link a[href^="/r/buffalobills#"]:after, .linkflair-report.link a[href^="/r/buffalobills#"]:before, .linkflair-gamethread.link a[href^="/r/buffalobills#"]:before {
     background-position: 0 -240px
 }
 
-.linkflair-report.link a[href^="/r/panthers#"]:after,.linkflair-gamethread.link a[href^="/r/panthers#"]:after,.linkflair-report.link a[href^="/r/panthers#"]:before,.linkflair-gamethread.link a[href^="/r/panthers#"]:before {
+.linkflair-report.link a[href^="/r/panthers#"]:after, .linkflair-gamethread.link a[href^="/r/panthers#"]:after, .linkflair-report.link a[href^="/r/panthers#"]:before, .linkflair-gamethread.link a[href^="/r/panthers#"]:before {
     background-position: 0 -320px
 }
 
-.linkflair-report.link a[href^="/r/chibears#"]:after,.linkflair-gamethread.link a[href^="/r/chibears#"]:after,.linkflair-gamethread.link a[href^="/r/chibears#"]:before,.linkflair-report.link a[href^="/r/chibears#"]:before {
+.linkflair-report.link a[href^="/r/chibears#"]:after, .linkflair-gamethread.link a[href^="/r/chibears#"]:after, .linkflair-gamethread.link a[href^="/r/chibears#"]:before, .linkflair-report.link a[href^="/r/chibears#"]:before {
     background-position: 0 -400px
 }
 
-.linkflair-report.link a[href^="/r/bengals#"]:after,.linkflair-gamethread.link a[href^="/r/bengals#"]:after,.linkflair-gamethread.link a[href^="/r/bengals#"]:before,.linkflair-report.link a[href^="/r/bengals#"]:before {
+.linkflair-report.link a[href^="/r/bengals#"]:after, .linkflair-gamethread.link a[href^="/r/bengals#"]:after, .linkflair-gamethread.link a[href^="/r/bengals#"]:before, .linkflair-report.link a[href^="/r/bengals#"]:before {
     background-position: 0 -480px
 }
 
-.linkflair-report.link a[href^="/r/browns#"]:after,.linkflair-gamethread.link a[href^="/r/browns#"]:after,.linkflair-report.link a[href^="/r/browns#"]:before,.linkflair-gamethread.link a[href^="/r/browns#"]:before {
+.linkflair-report.link a[href^="/r/browns#"]:after, .linkflair-gamethread.link a[href^="/r/browns#"]:after, .linkflair-report.link a[href^="/r/browns#"]:before, .linkflair-gamethread.link a[href^="/r/browns#"]:before {
     background-position: 0 -560px
 }
 
-.linkflair-report.link a[href^="/r/cowboys#"]:after,.linkflair-gamethread.link a[href^="/r/cowboys#"]:after,.linkflair-report.link a[href^="/r/cowboys#"]:before,.linkflair-gamethread.link a[href^="/r/cowboys#"]:before {
+.linkflair-report.link a[href^="/r/cowboys#"]:after, .linkflair-gamethread.link a[href^="/r/cowboys#"]:after, .linkflair-report.link a[href^="/r/cowboys#"]:before, .linkflair-gamethread.link a[href^="/r/cowboys#"]:before {
     background-position: 0 -640px
 }
 
-.linkflair-report.link a[href^="/r/denverbroncos#"]:after,.linkflair-gamethread.link a[href^="/r/denverbroncos#"]:after,.linkflair-gamethread.link a[href^="/r/denverbroncos#"]:before,.linkflair-report.link a[href^="/r/denverbroncos#"]:before {
+.linkflair-report.link a[href^="/r/denverbroncos#"]:after, .linkflair-gamethread.link a[href^="/r/denverbroncos#"]:after, .linkflair-gamethread.link a[href^="/r/denverbroncos#"]:before, .linkflair-report.link a[href^="/r/denverbroncos#"]:before {
     background-position: 0 -720px
 }
 
-.linkflair-report.link a[href^="/r/detroitlions#"]:after,.linkflair-gamethread.link a[href^="/r/detroitlions#"]:after,.linkflair-gamethread.link a[href^="/r/detroitlions#"]:before,.linkflair-report.link a[href^="/r/detroitlions#"]:before {
+.linkflair-report.link a[href^="/r/detroitlions#"]:after, .linkflair-gamethread.link a[href^="/r/detroitlions#"]:after, .linkflair-gamethread.link a[href^="/r/detroitlions#"]:before, .linkflair-report.link a[href^="/r/detroitlions#"]:before {
     background-position: 0 -800px
 }
 
-.linkflair-report.link a[href^="/r/greenbaypackers#"]:after,.linkflair-gamethread.link a[href^="/r/greenbaypackers#"]:after,.linkflair-report.link a[href^="/r/greenbaypackers#"]:before,.linkflair-gamethread.link a[href^="/r/greenbaypackers#"]:before {
+.linkflair-report.link a[href^="/r/greenbaypackers#"]:after, .linkflair-gamethread.link a[href^="/r/greenbaypackers#"]:after, .linkflair-report.link a[href^="/r/greenbaypackers#"]:before, .linkflair-gamethread.link a[href^="/r/greenbaypackers#"]:before {
     background-position: 0 -880px
 }
 
-.linkflair-report.link a[href^="/r/texans#"]:after,.linkflair-gamethread.link a[href^="/r/texans#"]:after,.linkflair-gamethread.link a[href^="/r/texans#"]:before,.linkflair-report.link a[href^="/r/texans#"]:before {
+.linkflair-report.link a[href^="/r/texans#"]:after, .linkflair-gamethread.link a[href^="/r/texans#"]:after, .linkflair-gamethread.link a[href^="/r/texans#"]:before, .linkflair-report.link a[href^="/r/texans#"]:before {
     background-position: 0 -960px
 }
 
-.linkflair-report.link a[href^="/r/colts#"]:after,.linkflair-gamethread.link a[href^="/r/colts#"]:after,.linkflair-gamethread.link a[href^="/r/colts#"]:before,.linkflair-report.link a[href^="/r/colts#"]:before {
+.linkflair-report.link a[href^="/r/colts#"]:after, .linkflair-gamethread.link a[href^="/r/colts#"]:after, .linkflair-gamethread.link a[href^="/r/colts#"]:before, .linkflair-report.link a[href^="/r/colts#"]:before {
     background-position: 0 -1040px
 }
 
-.linkflair-report.link a[href^="/r/jaguars#"]:after,.linkflair-gamethread.link a[href^="/r/jaguars#"]:after,.linkflair-gamethread.link a[href^="/r/jaguars#"]:before,.linkflair-report.link a[href^="/r/jaguars#"]:before {
+.linkflair-report.link a[href^="/r/jaguars#"]:after, .linkflair-gamethread.link a[href^="/r/jaguars#"]:after, .linkflair-gamethread.link a[href^="/r/jaguars#"]:before, .linkflair-report.link a[href^="/r/jaguars#"]:before {
     background-position: 0 -1120px
 }
 
-.linkflair-report.link a[href^="/r/kansascitychiefs#"]:after,.linkflair-gamethread.link a[href^="/r/kansascitychiefs#"]:after,.linkflair-gamethread.link a[href^="/r/kansascitychiefs#"]:before,.linkflair-report.link a[href^="/r/kansascitychiefs#"]:before {
+.linkflair-report.link a[href^="/r/kansascitychiefs#"]:after, .linkflair-gamethread.link a[href^="/r/kansascitychiefs#"]:after, .linkflair-gamethread.link a[href^="/r/kansascitychiefs#"]:before, .linkflair-report.link a[href^="/r/kansascitychiefs#"]:before {
     background-position: 0 -1200px
 }
 
-.linkflair-report.link a[href^="/r/miamidolphins#"]:after,.linkflair-gamethread.link a[href^="/r/miamidolphins#"]:after,.linkflair-gamethread.link a[href^="/r/miamidolphins#"]:before,.linkflair-report.link a[href^="/r/miamidolphins#"]:before {
-                                                               background-position: 0 -1280px
-                                                           }
+.linkflair-report.link a[href^="/r/miamidolphins#"]:after, .linkflair-gamethread.link a[href^="/r/miamidolphins#"]:after, .linkflair-gamethread.link a[href^="/r/miamidolphins#"]:before, .linkflair-report.link a[href^="/r/miamidolphins#"]:before {
+    background-position: 0 -1280px
+}
 
-.linkflair-report.link a[href^="/r/minnesotavikings#"]:after,.linkflair-gamethread.link a[href^="/r/minnesotavikings#"]:after,.linkflair-gamethread.link a[href^="/r/minnesotavikings#"]:before,.linkflair-report.link a[href^="/r/minnesotavikings#"]:before {
+.linkflair-report.link a[href^="/r/minnesotavikings#"]:after, .linkflair-gamethread.link a[href^="/r/minnesotavikings#"]:after, .linkflair-gamethread.link a[href^="/r/minnesotavikings#"]:before, .linkflair-report.link a[href^="/r/minnesotavikings#"]:before {
     background-position: 0 -1360px
 }
 
-.linkflair-report.link a[href^="/r/patriots#"]:after,.linkflair-gamethread.link a[href^="/r/patriots#"]:after,.linkflair-gamethread.link a[href^="/r/patriots#"]:before,.linkflair-report.link a[href^="/r/patriots#"]:before {
+.linkflair-report.link a[href^="/r/patriots#"]:after, .linkflair-gamethread.link a[href^="/r/patriots#"]:after, .linkflair-gamethread.link a[href^="/r/patriots#"]:before, .linkflair-report.link a[href^="/r/patriots#"]:before {
     background-position: 0 -1440px
 }
 
-.linkflair-report.link a[href^="/r/saints#"]:after,.linkflair-gamethread.link a[href^="/r/saints#"]:after,.linkflair-gamethread.link a[href^="/r/saints#"]:before,.linkflair-report.link a[href^="/r/saints#"]:before {
+.linkflair-report.link a[href^="/r/saints#"]:after, .linkflair-gamethread.link a[href^="/r/saints#"]:after, .linkflair-gamethread.link a[href^="/r/saints#"]:before, .linkflair-report.link a[href^="/r/saints#"]:before {
     background-position: 0 -1520px
 }
 
-.linkflair-report.link a[href^="/r/nygiants#"]:after,.linkflair-gamethread.link a[href^="/r/nygiants#"]:after,.linkflair-gamethread.link a[href^="/r/nygiants#"]:before,.linkflair-report.link a[href^="/r/nygiants#"]:before {
+.linkflair-report.link a[href^="/r/nygiants#"]:after, .linkflair-gamethread.link a[href^="/r/nygiants#"]:after, .linkflair-gamethread.link a[href^="/r/nygiants#"]:before, .linkflair-report.link a[href^="/r/nygiants#"]:before {
     background-position: 0 -1600px
 }
 
-.linkflair-report.link a[href^="/r/nyjets#"]:after,.linkflair-gamethread.link a[href^="/r/nyjets#"]:after,.linkflair-gamethread.link a[href^="/r/nyjets#"]:before,.linkflair-report.link a[href^="/r/nyjets#"]:before {
+.linkflair-report.link a[href^="/r/nyjets#"]:after, .linkflair-gamethread.link a[href^="/r/nyjets#"]:after, .linkflair-gamethread.link a[href^="/r/nyjets#"]:before, .linkflair-report.link a[href^="/r/nyjets#"]:before {
     background-position: 0 -1680px
 }
 
-.linkflair-report.link a[href^="/r/oaklandraiders#"]:after,.linkflair-gamethread.link a[href^="/r/oaklandraiders#"]:after,.linkflair-gamethread.link a[href^="/r/oaklandraiders#"]:before,.linkflair-report.link a[href^="/r/oaklandraiders#"]:before {
+.linkflair-report.link a[href^="/r/oaklandraiders#"]:after, .linkflair-gamethread.link a[href^="/r/oaklandraiders#"]:after, .linkflair-gamethread.link a[href^="/r/oaklandraiders#"]:before, .linkflair-report.link a[href^="/r/oaklandraiders#"]:before {
     background-position: 0 -1760px
 }
 
-.linkflair-report.link a[href^="/r/eagles#"]:after,.linkflair-gamethread.link a[href^="/r/eagles#"]:after,.linkflair-gamethread.link a[href^="/r/eagles#"]:before,.linkflair-report.link a[href^="/r/eagles#"]:before {
+.linkflair-report.link a[href^="/r/eagles#"]:after, .linkflair-gamethread.link a[href^="/r/eagles#"]:after, .linkflair-gamethread.link a[href^="/r/eagles#"]:before, .linkflair-report.link a[href^="/r/eagles#"]:before {
     background-position: 0 -1840px
 }
 
-.linkflair-report.link a[href^="/r/steelers#"]:after,.linkflair-gamethread.link a[href^="/r/steelers#"]:after,.linkflair-gamethread.link a[href^="/r/steelers#"]:before,.linkflair-report.link a[href^="/r/steelers#"]:before {
+.linkflair-report.link a[href^="/r/steelers#"]:after, .linkflair-gamethread.link a[href^="/r/steelers#"]:after, .linkflair-gamethread.link a[href^="/r/steelers#"]:before, .linkflair-report.link a[href^="/r/steelers#"]:before {
     background-position: 0 -1920px
 }
 
-.linkflair-report.link a[href^="/r/chargers#"]:after,.linkflair-gamethread.link a[href^="/r/chargers#"]:after,.linkflair-gamethread.link a[href^="/r/chargers#"]:before,.linkflair-report.link a[href^="/r/chargers#"]:before {
+.linkflair-report.link a[href^="/r/chargers#"]:after, .linkflair-gamethread.link a[href^="/r/chargers#"]:after, .linkflair-gamethread.link a[href^="/r/chargers#"]:before, .linkflair-report.link a[href^="/r/chargers#"]:before {
     background-position: 0 -2000px
 }
 
-.linkflair-report.link a[href^="/r/49ers#"]:after,.linkflair-gamethread.link a[href^="/r/49ers#"]:after,.linkflair-gamethread.link a[href^="/r/49ers#"]:before,.linkflair-report.link a[href^="/r/49ers#"]:before {
-                                                       background-position: 0 -2080px
-                                                   }
+.linkflair-report.link a[href^="/r/49ers#"]:after, .linkflair-gamethread.link a[href^="/r/49ers#"]:after, .linkflair-gamethread.link a[href^="/r/49ers#"]:before, .linkflair-report.link a[href^="/r/49ers#"]:before {
+    background-position: 0 -2080px
+}
 
-.linkflair-report.link a[href^="/r/seahawks#"]:after,.linkflair-gamethread.link a[href^="/r/seahawks#"]:after,.linkflair-gamethread.link a[href^="/r/seahawks#"]:before,.linkflair-report.link a[href^="/r/seahawks#"]:before {
+.linkflair-report.link a[href^="/r/seahawks#"]:after, .linkflair-gamethread.link a[href^="/r/seahawks#"]:after, .linkflair-gamethread.link a[href^="/r/seahawks#"]:before, .linkflair-report.link a[href^="/r/seahawks#"]:before {
     background-position: 0 -2160px
 }
 
-.linkflair-report.link a[href^="/r/stlouisrams#"]:after,.linkflair-gamethread.link a[href^="/r/stlouisrams#"]:after,.linkflair-gamethread.link a[href^="/r/stlouisrams#"]:before,.linkflair-report.link a[href^="/r/stlouisrams#"]:before {
+.linkflair-report.link a[href^="/r/stlouisrams#"]:after, .linkflair-gamethread.link a[href^="/r/stlouisrams#"]:after, .linkflair-gamethread.link a[href^="/r/stlouisrams#"]:before, .linkflair-report.link a[href^="/r/stlouisrams#"]:before {
     background-position: 0 -2240px
 }
 
-.linkflair-report.link a[href^="/r/buccaneers#"]:after,.linkflair-gamethread.link a[href^="/r/buccaneers#"]:after,.linkflair-gamethread.link a[href^="/r/buccaneers#"]:before,.linkflair-report.link a[href^="/r/buccaneers#"]:before {
+.linkflair-report.link a[href^="/r/buccaneers#"]:after, .linkflair-gamethread.link a[href^="/r/buccaneers#"]:after, .linkflair-gamethread.link a[href^="/r/buccaneers#"]:before, .linkflair-report.link a[href^="/r/buccaneers#"]:before {
     background-position: 0 -2320px
 }
 
-.linkflair-report.link a[href^="/r/tennesseetitans#"]:after,.linkflair-gamethread.link a[href^="/r/tennesseetitans#"]:after,.linkflair-gamethread.link a[href^="/r/tennesseetitans#"]:before,.linkflair-report.link a[href^="/r/tennesseetitans#"]:before {
+.linkflair-report.link a[href^="/r/tennesseetitans#"]:after, .linkflair-gamethread.link a[href^="/r/tennesseetitans#"]:after, .linkflair-gamethread.link a[href^="/r/tennesseetitans#"]:before, .linkflair-report.link a[href^="/r/tennesseetitans#"]:before {
     background-position: 0 -2400px
 }
 
-.linkflair-report.link a[href^="/r/redskins#"]:after,.linkflair-gamethread.link a[href^="/r/redskins#"]:after,.linkflair-gamethread.link a[href^="/r/redskins#"]:before,.linkflair-report.link a[href^="/r/redskins#"]:before {
+.linkflair-report.link a[href^="/r/redskins#"]:after, .linkflair-gamethread.link a[href^="/r/redskins#"]:after, .linkflair-gamethread.link a[href^="/r/redskins#"]:before, .linkflair-report.link a[href^="/r/redskins#"]:before {
     background-position: 0 -2480px
 }
 
@@ -3243,12 +3243,12 @@ a.subbarlink::before {
 
 @media (max-width: 1100px) {
     #header-bottom-left .tabmenu li:nth-child(1n+3) {
-        display:none
+        display: none
     }
 }
 
 img#header-img {
-    display: none!important
+    display: none !important
 }
 
 .nav-buttons {
@@ -3256,8 +3256,8 @@ img#header-img {
 }
 
 body .thing .tagline .author[href$="/user/carolina_panthers"] {
-    background-color: #000000!important;
-    color: #fff!important;
+    background-color: #000000 !important;
+    color: #fff !important;
     padding: 3px;
     font-weight: bold
 }
@@ -3266,29 +3266,29 @@ body .thing .tagline .author[href$="/user/carolina_panthers"]:after {
     content: " official account";
     font-size: 0;
     color: #0088ce;
-    -webkit-transition: .7s!important;
-    -moz-transition: .7s!important;
-    transition: .7s!important
+    -webkit-transition: .7s !important;
+    -moz-transition: .7s !important;
+    transition: .7s !important
 }
 
 body .thing .tagline:hover .author[href$="/user/carolina_panthers"] {
-    background-color: #000000!important;
-    text-decoration: none!important
+    background-color: #000000 !important;
+    text-decoration: none !important
 }
 
 body .thing .tagline:hover .author[href$="/user/carolina_panthers"]:after {
     content: " official account";
-    background-color: #000000!important;
+    background-color: #000000 !important;
     font-size: 10px;
-    -webkit-transition: .7s!important;
-    -moz-transition: .7s!important;
-    transition: .7s!important;
+    -webkit-transition: .7s !important;
+    -moz-transition: .7s !important;
+    transition: .7s !important;
     opacity: 1
 }
 
 body .thing .tagline .author[href$="/user/BananaGooP"] {
-    background-color: #ffe135!important;
-    color: #0088ce!important;
+    background-color: #ffe135 !important;
+    color: #0088ce !important;
     padding: 3px;
     font-weight: bold
 }
@@ -3297,29 +3297,29 @@ body .thing .tagline .author[href$="/user/BananaGooP"]:after {
     content: " for scale";
     font-size: 0;
     color: #0088ce;
-    -webkit-transition: .7s!important;
-    -moz-transition: .7s!important;
-    transition: .7s!important
+    -webkit-transition: .7s !important;
+    -moz-transition: .7s !important;
+    transition: .7s !important
 }
 
 body .thing .tagline:hover .author[href$="/user/BananaGooP"] {
-    background-color: #ffe135!important;
-    text-decoration: none!important
+    background-color: #ffe135 !important;
+    text-decoration: none !important
 }
 
 body .thing .tagline:hover .author[href$="/user/BananaGooP"]:after {
     content: " for scale";
-    background-color: #ffe135!important;
+    background-color: #ffe135 !important;
     font-size: 10px;
-    -webkit-transition: .7s!important;
-    -moz-transition: .7s!important;
-    transition: .7s!important;
+    -webkit-transition: .7s !important;
+    -moz-transition: .7s !important;
+    transition: .7s !important;
     opacity: 1
 }
 
 body .thing .tagline .author[href$="/user/JCoxRocks"] {
-    background-color: #0088ce!important;
-    color: #fff!important;
+    background-color: #0088ce !important;
+    color: #fff !important;
     padding: 3px;
     font-weight: bold
 }
@@ -3328,29 +3328,29 @@ body .thing .tagline .author[href$="/user/JCoxRocks"]:after {
     content: ": Boss Man";
     font-size: 0;
     color: #fff;
-    -webkit-transition: .7s!important;
-    -moz-transition: .7s!important;
-    transition: .7s!important
+    -webkit-transition: .7s !important;
+    -moz-transition: .7s !important;
+    transition: .7s !important
 }
 
 body .thing .tagline:hover .author[href$="/user/JCoxRocks"] {
-    background-color: #0088ce!important;
-    text-decoration: none!important
+    background-color: #0088ce !important;
+    text-decoration: none !important
 }
 
 body .thing .tagline:hover .author[href$="/user/JCoxRocks"]:after {
     content: ": Boss Man";
-    background-color: #0088ce!important;
+    background-color: #0088ce !important;
     font-size: 10px;
-    -webkit-transition: .7s!important;
-    -moz-transition: .7s!important;
-    transition: .7s!important;
+    -webkit-transition: .7s !important;
+    -moz-transition: .7s !important;
+    transition: .7s !important;
     opacity: 1
 }
 
 body .thing .tagline .author[href$="/user/Heelincal"] {
-    background-color: #EA80B0!important;
-    color: #fff!important;
+    background-color: #EA80B0 !important;
+    color: #fff !important;
     padding: 3px;
     font-weight: bold
 }
@@ -3359,29 +3359,29 @@ body .thing .tagline .author[href$="/user/Heelincal"]:after {
     content: "'s mom";
     font-size: 0;
     color: #fff;
-    -webkit-transition: .7s!important;
-    -moz-transition: .7s!important;
-    transition: .7s!important
+    -webkit-transition: .7s !important;
+    -moz-transition: .7s !important;
+    transition: .7s !important
 }
 
 body .thing .tagline:hover .author[href$="/user/Heelincal"] {
-    background-color: #EA80B0!important;
-    text-decoration: none!important
+    background-color: #EA80B0 !important;
+    text-decoration: none !important
 }
 
 body .thing .tagline:hover .author[href$="/user/Heelincal"]:after {
     content: "'s mom";
-    background-color: #EA80B0!important;
+    background-color: #EA80B0 !important;
     font-size: 10px;
-    -webkit-transition: .7s!important;
-    -moz-transition: .7s!important;
-    transition: .7s!important;
+    -webkit-transition: .7s !important;
+    -moz-transition: .7s !important;
+    transition: .7s !important;
     opacity: 1
 }
 
 body .thing .tagline .author[href$="/user/appgrad22"] {
-    background-color: #0088ce!important;
-    color: #fff!important;
+    background-color: #0088ce !important;
+    color: #fff !important;
     padding: 3px;
     font-weight: bold
 }
@@ -3390,28 +3390,28 @@ body .thing .tagline .author[href$="/user/appgrad22"]:after {
     content: " is here for Heel's mom";
     font-size: 0;
     color: #fff;
-    -webkit-transition: .7s!important;
-    -moz-transition: .7s!important;
-    transition: .7s!important
+    -webkit-transition: .7s !important;
+    -moz-transition: .7s !important;
+    transition: .7s !important
 }
 
 body .thing .tagline:hover .author[href$="/user/appgrad22"] {
-    background-color: #0088ce!important;
-    text-decoration: none!important
+    background-color: #0088ce !important;
+    text-decoration: none !important
 }
 
 body .thing .tagline:hover .author[href$="/user/appgrad22"]:after {
     content: " is here for Heel's mom";
-    background-color: #0088ce!important;
+    background-color: #0088ce !important;
     font-size: 10px;
-    -webkit-transition: .7s!important;
-    -moz-transition: .7s!important;
-    transition: .7s!important;
+    -webkit-transition: .7s !important;
+    -moz-transition: .7s !important;
+    transition: .7s !important;
     opacity: 1
 }
 
 body .thing .tagline .author[href$="/user/Extric"] {
-    color: #0088ce!important;
+    color: #0088ce !important;
     padding: 3px;
     font-weight: bold
 }
@@ -3420,27 +3420,27 @@ body .thing .tagline .author[href$="/user/Extric"]:after {
     content: ": CSS Master ";
     font-size: 0;
     color: #0088ce;
-    -webkit-transition: .7s!important;
-    -moz-transition: .7s!important;
-    transition: .7s!important
+    -webkit-transition: .7s !important;
+    -moz-transition: .7s !important;
+    transition: .7s !important
 }
 
 body .thing .tagline:hover .author[href$="/user/Extric"] {
-    text-decoration: none!important
+    text-decoration: none !important
 }
 
 body .thing .tagline:hover .author[href$="/user/Extric"]:after {
     content: ": CSS Master";
     font-size: 10px;
-    -webkit-transition: .7s!important;
-    -moz-transition: .7s!important;
-    transition: .7s!important;
+    -webkit-transition: .7s !important;
+    -moz-transition: .7s !important;
+    transition: .7s !important;
     opacity: 1
 }
 
 body .thing .tagline .author[href$="/user/NAS89"] {
-    background-color: #0088ce!important;
-    color: #fff!important;
+    background-color: #0088ce !important;
+    color: #fff !important;
     padding: 3px;
     font-weight: bold
 }
@@ -3449,29 +3449,29 @@ body .thing .tagline .author[href$="/user/NAS89"]:after {
     content: " is programming robo-TD58";
     font-size: 0;
     color: #fff;
-    -webkit-transition: .7s!important;
-    -moz-transition: .7s!important;
-    transition: .7s!important
+    -webkit-transition: .7s !important;
+    -moz-transition: .7s !important;
+    transition: .7s !important
 }
 
 body .thing .tagline:hover .author[href$="/user/NAS89"] {
-    background-color: #0088ce!important;
-    text-decoration: none!important
+    background-color: #0088ce !important;
+    text-decoration: none !important
 }
 
 body .thing .tagline:hover .author[href$="/user/NAS89"]:after {
     content: " is programming robo-TD58";
-    background-color: #0088ce!important;
+    background-color: #0088ce !important;
     font-size: 10px;
-    -webkit-transition: .7s!important;
-    -moz-transition: .7s!important;
-    transition: .7s!important;
+    -webkit-transition: .7s !important;
+    -moz-transition: .7s !important;
+    transition: .7s !important;
     opacity: 1
 }
 
 body .thing .tagline .author[href$="/user/that_guy_you_kno"] {
-    background-color: #0088ce!important;
-    color: #fff!important;
+    background-color: #0088ce !important;
+    color: #fff !important;
     padding: 3px;
     font-weight: bold
 }
@@ -3480,29 +3480,29 @@ body .thing .tagline .author[href$="/user/that_guy_you_kno"]:after {
     content: ", Who? Me?";
     font-size: 0;
     color: #fff;
-    -webkit-transition: .7s!important;
-    -moz-transition: .7s!important;
-    transition: .7s!important
+    -webkit-transition: .7s !important;
+    -moz-transition: .7s !important;
+    transition: .7s !important
 }
 
 body .thing .tagline:hover .author[href$="/user/that_guy_you_kno"] {
-    background-color: #0088ce!important;
-    text-decoration: none!important
+    background-color: #0088ce !important;
+    text-decoration: none !important
 }
 
 body .thing .tagline:hover .author[href$="/user/that_guy_you_kno"]:after {
     content: ", Who? Me?";
-    background-color: #0088ce!important;
+    background-color: #0088ce !important;
     font-size: 10px;
-    -webkit-transition: .7s!important;
-    -moz-transition: .7s!important;
-    transition: .7s!important;
+    -webkit-transition: .7s !important;
+    -moz-transition: .7s !important;
+    transition: .7s !important;
     opacity: 1
 }
 
 body .thing .tagline .author[href$="/user/the-horace"] {
-    background-color: #cccccc!important;
-    color: #0088ce!important;
+    background-color: #cccccc !important;
+    color: #0088ce !important;
     padding: 3px;
     font-weight: bold
 }
@@ -3511,64 +3511,64 @@ body .thing .tagline .author[href$="/user/the-horace"]:after {
     content: ": M.I.A please report all sightings";
     font-size: 0;
     color: #0088ce;
-    -webkit-transition: .7s!important;
-    -moz-transition: .7s!important;
-    transition: .7s!important
+    -webkit-transition: .7s !important;
+    -moz-transition: .7s !important;
+    transition: .7s !important
 }
 
 body .thing .tagline:hover .author[href$="/user/the-horace"] {
-    background-color: #cccccc!important;
-    text-decoration: none!important
+    background-color: #cccccc !important;
+    text-decoration: none !important
 }
 
 body .thing .tagline:hover .author[href$="/user/the-horace"]:after {
     content: ": M.I.A please report all sightings";
-    background-color: #cccccc!important;
+    background-color: #cccccc !important;
     font-size: 10px;
-    -webkit-transition: .7s!important;
-    -moz-transition: .7s!important;
-    transition: .7s!important;
+    -webkit-transition: .7s !important;
+    -moz-transition: .7s !important;
+    transition: .7s !important;
     opacity: 1
 }
 
 .res-nightmode div.entry {
-    background-color: rgb(34,34,34)!important
+    background-color: rgb(34, 34, 34) !important
 }
 
 .res-nightmode body {
-    background-color: rgb(34,34,34)!important
+    background-color: rgb(34, 34, 34) !important
 }
 
-.res-nightmode div.side h4+h5+h6+h1+table tr:nth-child(odd),.res-nightmode div.side h6+h4+h6+h1+table tr:nth-child(odd) {
-    background-color: rgb(34,34,34)!important
+.res-nightmode div.side h4 + h5 + h6 + h1 + table tr:nth-child(odd), .res-nightmode div.side h6 + h4 + h6 + h1 + table tr:nth-child(odd) {
+    background-color: rgb(34, 34, 34) !important
 }
 
 html.res-nightmode div.side table td a[href$="/ESPN"] {
-    background-position: 0 -20px!important;
+    background-position: 0 -20px !important;
     width: 55px
 }
 
 html.res-nightmode div.side table td a[href$="/CBS"] {
-    background-position: 0 -10px!important;
+    background-position: 0 -10px !important;
     width: 45px
 }
 
 html.res-nightmode div.side table td a[href$="/NBC"] {
-    background-position: 0 -30px!important;
+    background-position: 0 -30px !important;
     width: 45px
 }
 
 html.res-nightmode div.side table td a[href$="/NFLN"] {
-    background-position: 0 -40px!important;
+    background-position: 0 -40px !important;
     width: 60px
 }
 
 .res-nightmode div#header-bottom-left ul.tabmenu li.selected a {
-    background-color: rgb(34,34,34)!important
+    background-color: rgb(34, 34, 34) !important
 }
 
-.res-nightmode div.side h6+h5+h6+h1+table {
-    background-color: rgb(34,34,34)!important
+.res-nightmode div.side h6 + h5 + h6 + h1 + table {
+    background-color: rgb(34, 34, 34) !important
 }
 
 .res-nightmode .arrow {
@@ -3578,38 +3578,38 @@ html.res-nightmode div.side table td a[href$="/NFLN"] {
     padding: 2px;
     margin: 0 auto;
     cursor: pointer;
-    background-image: url("//b.thumbs.redditmedia.com/B4oso0NuYpHoOBw3rF1fWnabeOMbmZQHpUJlc8xq6UA.png")!important;
-    background-position: 0 0!important;
+    background-image: url("//b.thumbs.redditmedia.com/B4oso0NuYpHoOBw3rF1fWnabeOMbmZQHpUJlc8xq6UA.png") !important;
+    background-position: 0 0 !important;
     background-repeat: no-repeat;
     outline: none
 }
 
 .res-nightmode .arrow.up {
-    background-position: -87px 0!important;
-    background-image: url("//b.thumbs.redditmedia.com/B4oso0NuYpHoOBw3rF1fWnabeOMbmZQHpUJlc8xq6UA.png")!important
+    background-position: -87px 0 !important;
+    background-image: url("//b.thumbs.redditmedia.com/B4oso0NuYpHoOBw3rF1fWnabeOMbmZQHpUJlc8xq6UA.png") !important
 }
 
 .res-nightmode .arrow.upmod {
-    background-position: -107px 0!important;
-    background-image: url("//b.thumbs.redditmedia.com/B4oso0NuYpHoOBw3rF1fWnabeOMbmZQHpUJlc8xq6UA.png")!important
+    background-position: -107px 0 !important;
+    background-image: url("//b.thumbs.redditmedia.com/B4oso0NuYpHoOBw3rF1fWnabeOMbmZQHpUJlc8xq6UA.png") !important
 }
 
 .res-nightmode .arrow.down {
-    background-position: -87px -20px!important;
-    background-image: url("//b.thumbs.redditmedia.com/B4oso0NuYpHoOBw3rF1fWnabeOMbmZQHpUJlc8xq6UA.png")!important
+    background-position: -87px -20px !important;
+    background-image: url("//b.thumbs.redditmedia.com/B4oso0NuYpHoOBw3rF1fWnabeOMbmZQHpUJlc8xq6UA.png") !important
 }
 
 .res-nightmode .arrow.downmod {
-    background-position: -107px -20px!important;
-    background-image: url("//b.thumbs.redditmedia.com/B4oso0NuYpHoOBw3rF1fWnabeOMbmZQHpUJlc8xq6UA.png")!important
+    background-position: -107px -20px !important;
+    background-image: url("//b.thumbs.redditmedia.com/B4oso0NuYpHoOBw3rF1fWnabeOMbmZQHpUJlc8xq6UA.png") !important
 }
 
-.res-nightmode .entry .buttons li a,.res-nightmode .link .score {
-    color: #0088ce!important
+.res-nightmode .entry .buttons li a, .res-nightmode .link .score {
+    color: #0088ce !important
 }
 
 .res-nightmode body .content {
-    background-color: rgb(34,34,34)!important;
+    background-color: rgb(34, 34, 34) !important;
     -webkit-transition: all 3s ease;
     transition: all 3s ease
 }
@@ -3618,13 +3618,13 @@ html.res-nightmode div.side table td a[href$="/NFLN"] {
     background: transparent
 }
 
-.res-nightmode #header-bottom-left,.res-nightmode #header-bottom-left ul.tabmenu li a {
-    background: rgb(64,64,64)!important;
-    color: hsl(0,0%,65%)!important
+.res-nightmode #header-bottom-left, .res-nightmode #header-bottom-left ul.tabmenu li a {
+    background: rgb(64, 64, 64) !important;
+    color: hsl(0, 0%, 65%) !important
 }
 
 .res-nightmode #header-bottom-left {
-    border-bottom: 1px solid hsl(0,0%,65%)
+    border-bottom: 1px solid hsl(0, 0%, 65%)
 }
 
 .res-nightmode .content .linklisting .thing {
@@ -3632,110 +3632,110 @@ html.res-nightmode div.side table td a[href$="/NFLN"] {
 }
 
 .res-nightmode .link {
-    border-left: 2px solid rgb(64,64,64);
-    border-bottom: 1px solid rgb(64,64,64)
+    border-left: 2px solid rgb(64, 64, 64);
+    border-bottom: 1px solid rgb(64, 64, 64)
 }
 
 .res-nightmode .link .entry {
-    border-left: 2px solid rgb(64,64,64)
+    border-left: 2px solid rgb(64, 64, 64)
 }
 
-.res-nightmode .sitetable>:first-child {
-    border-top: 1px solid rgb(64,64,64)
+.res-nightmode .sitetable > :first-child {
+    border-top: 1px solid rgb(64, 64, 64)
 }
 
 .res-nightmode #header-bottom-right a {
-    color: #c8c8c8!important
+    color: #c8c8c8 !important
 }
 
 .res-nightmode span.userkarma a {
-    color: #c8c8c8!important
+    color: #c8c8c8 !important
 }
 
 .res-nightmode .side .morelink {
-    background: rgb(38,38,38)!important;
-    border: 1px solid rgb(64,64,64);
-    color: #c8c8c8!important
+    background: rgb(38, 38, 38) !important;
+    border: 1px solid rgb(64, 64, 64);
+    color: #c8c8c8 !important
 }
 
-.res-nightmode .side .subscribe-button a,.res-nightmode .side a.helplink,.res-nightmode .side a[href$="subreddit-rules"],.res-nightmode .side a[href$="#panthers"] {
-    color: #c8c8c8!important;
-    background: initial!important;
-    border: 1px solid rgb(64,64,64)
+.res-nightmode .side .subscribe-button a, .res-nightmode .side a.helplink, .res-nightmode .side a[href$="subreddit-rules"], .res-nightmode .side a[href$="#panthers"] {
+    color: #c8c8c8 !important;
+    background: initial !important;
+    border: 1px solid rgb(64, 64, 64)
 }
 
 .res-nightmode .side .morelink a {
-    color: #c8c8c8!important
+    color: #c8c8c8 !important
 }
 
 .res-nightmode .titlebox .subscribers {
-    background-color: rgb(38,38,38)!important;
-    border: 1px solid rgb(64,64,64)!important
+    background-color: rgb(38, 38, 38) !important;
+    border: 1px solid rgb(64, 64, 64) !important
 }
 
 .res-nightmode .titlebox .users-online {
-    background: rgb(64,64,64)!important;
-    border: 1px solid rgb(64,64,64)!important
+    background: rgb(64, 64, 64) !important;
+    border: 1px solid rgb(64, 64, 64) !important
 }
 
-.res-nightmode .titlebox .flairtoggle+.tagline {
-    background: initial!important;
-    border: 2px solid rgb(64,64,64)!important
+.res-nightmode .titlebox .flairtoggle + .tagline {
+    background: initial !important;
+    border: 2px solid rgb(64, 64, 64) !important
 }
 
 .res-nightmode .titlebox .flairtoggle {
-    background: rgb(64,64,64)!important
+    background: rgb(64, 64, 64) !important
 }
 
 .res-nightmode .flair {
-    background-color: rgb(38,38,38)!important;
-    border: rgb(38,38,38)!important
+    background-color: rgb(38, 38, 38) !important;
+    border: rgb(38, 38, 38) !important
 }
 
 .res-nightmode .side blockquote:first-of-type h2 {
-    background: rgb(38,38,38)!important;
-    border-color: rgb(64,64,64)!important
+    background: rgb(38, 38, 38) !important;
+    border-color: rgb(64, 64, 64) !important
 }
 
 .res-nightmode .md blockquote table thead tr th {
-    background: rgb(64,64,64)!important;
-    border-bottom: 1px solid rgb(64,64,64)!important
+    background: rgb(64, 64, 64) !important;
+    border-bottom: 1px solid rgb(64, 64, 64) !important
 }
 
 .res-nightmode .md blockquote table tbody tr:nth-child(even) {
-    background: rgb(64,64,64)!important
+    background: rgb(64, 64, 64) !important
 }
 
 .res-nightmode .side .tagline .flairselector {
-    background: rgb(38,38,38)!important;
-    border-color: rgb(64,64,64)!important
+    background: rgb(38, 38, 38) !important;
+    border-color: rgb(64, 64, 64) !important
 }
 
 .res-nightmode .side #search input[type=text] {
-    border-color: rgb(64,64,64)!important
+    border-color: rgb(64, 64, 64) !important
 }
 
 .res-nightmode .side .title h1 {
-    text-shadow: none!important
+    text-shadow: none !important
 }
 
-.res-nightmode .sidecontentbox .helplink+.title+ul.content li.more,.res-nightmode .gadget .right {
-    background: rgb(64,64,64)!important
+.res-nightmode .sidecontentbox .helplink + .title + ul.content li.more, .res-nightmode .gadget .right {
+    background: rgb(64, 64, 64) !important
 }
 
 .res-nightmode .flairselector form {
-    background: initial!important
+    background: initial !important
 }
 
 .res-nightmode .side .md blockquote table {
-    border-color: rgb(64,64,64)!important
+    border-color: rgb(64, 64, 64) !important
 }
 
-.res-nightmode .commentarea .panestack-title,.res-nightmode .menuarea,.res-nightmode #noresults.error {
-    background: inherit!important;
-    border-color: rgb(64,64,64)!important
+.res-nightmode .commentarea .panestack-title, .res-nightmode .menuarea, .res-nightmode #noresults.error {
+    background: inherit !important;
+    border-color: rgb(64, 64, 64) !important
 }
 
-.res-nightmode .side .md blockquote table tbody tr td:nth-child(1),.res-nightmode .side .md blockquote table tbody tr td:nth-child(2),.res-nightmode .side .md blockquote table tbody tr td:nth-child(3),.res-nightmode .side .md blockquote table tr td:nth-child(3),.res-nightmode .side .md blockquote table tr td:nth-child(4) {
-    border-color: rgb(64,64,64)
+.res-nightmode .side .md blockquote table tbody tr td:nth-child(1), .res-nightmode .side .md blockquote table tbody tr td:nth-child(2), .res-nightmode .side .md blockquote table tbody tr td:nth-child(3), .res-nightmode .side .md blockquote table tr td:nth-child(3), .res-nightmode .side .md blockquote table tr td:nth-child(4) {
+    border-color: rgb(64, 64, 64)
 }
