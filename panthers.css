@@ -3411,7 +3411,6 @@ body .thing .tagline:hover .author[href$="/user/appgrad22"]:after {
 }
 
 body .thing .tagline .author[href$="/user/Extric"] {
-    background-color: !important;
     color: #0088ce!important;
     padding: 3px;
     font-weight: bold
@@ -3427,13 +3426,11 @@ body .thing .tagline .author[href$="/user/Extric"]:after {
 }
 
 body .thing .tagline:hover .author[href$="/user/Extric"] {
-    background-color: !important;
     text-decoration: none!important
 }
 
 body .thing .tagline:hover .author[href$="/user/Extric"]:after {
     content: ": CSS Master";
-    background-color: !important;
     font-size: 10px;
     -webkit-transition: .7s!important;
     -moz-transition: .7s!important;
