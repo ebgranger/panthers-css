@@ -1252,8 +1252,6 @@ html.res-commentBoxes .comment {
 
 .side .md blockquote table tbody tr td a {
     float: left;
-    margin-top: 3px;
-    margin-right: 8px;
     display: block;
     margin: 0 auto;
     pointer-events: none;
