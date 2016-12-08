@@ -1506,7 +1506,7 @@ a[href$="/AFC"]::before {
 }
 
 .flair-cardinals::before {
-    background-position: 0 -40
+    background-position: 0 -40px;
 }
 
 .flair-cardinals.flair-official:before {
