@@ -1217,8 +1217,7 @@ html.res-commentBoxes .comment {
 
 .side .md blockquote table {
     width: 300px;
-    margin: 0;
-    margin-left: -5px;
+    margin: 0 0 0 -5px;
     border: 0;
     border-bottom: 1px solid #d8d8d8;
     padding: 3px
@@ -1489,7 +1488,7 @@ a[href$="/AFC"]::before {
     background-position: 0 -1200px
 }
 
-.flair-nfl::before,a[href$="/r/nfl"]::before, {
+.flair-nfl::before,a[href$="/r/nfl"]::before {
     background-position: 0 -640px
 }
 
@@ -3166,7 +3165,7 @@ div.side .md h6+h1,div.side .md h4+h1 {
     background-position: 0 -1200px
 }
 
-.linkflair-report.link a[href^="/r/miamidolphins#"]:after,,.linkflair-gamethread.link a[href^="/r/miamidolphins#"]:after,.linkflair-gamethread.link a[href^="/r/miamidolphins#"]:before,.linkflair-report.link a[href^="/r/miamidolphins#"]:before {
+.linkflair-report.link a[href^="/r/miamidolphins#"]:after,.linkflair-gamethread.link a[href^="/r/miamidolphins#"]:after,.linkflair-gamethread.link a[href^="/r/miamidolphins#"]:before,.linkflair-report.link a[href^="/r/miamidolphins#"]:before {
                                                                background-position: 0 -1280px
                                                            }
 
@@ -3206,7 +3205,7 @@ div.side .md h6+h1,div.side .md h4+h1 {
     background-position: 0 -2000px
 }
 
-.linkflair-report.link a[href^="/r/49ers#"]:after,,.linkflair-gamethread.link a[href^="/r/49ers#"]:after,.linkflair-gamethread.link a[href^="/r/49ers#"]:before,.linkflair-report.link a[href^="/r/49ers#"]:before {
+.linkflair-report.link a[href^="/r/49ers#"]:after,.linkflair-gamethread.link a[href^="/r/49ers#"]:after,.linkflair-gamethread.link a[href^="/r/49ers#"]:before,.linkflair-report.link a[href^="/r/49ers#"]:before {
                                                        background-position: 0 -2080px
                                                    }
 
