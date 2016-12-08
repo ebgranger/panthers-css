@@ -1,53 +1,53 @@
 .md h6+h6+h6+table tbody tr:nth-child(1) {
-    background-position: 0px -154px
+    background-position: 0 -154px
 }
 
 .md h6+h6+h6+table tbody tr:nth-child(2) {
-    background-position: 0px -124px
+    background-position: 0 -124px
 }
 
 .md h6+h6+h6+table tbody tr:nth-child(3) {
-    background-position: 0px -154px
+    background-position: 0 -154px
 }
 
 .md h6+h6+h6+table tbody tr:nth-child(4) {
-    background-position: 0px -154px
+    background-position: 0 -154px
 }
 
 .md h6+h6+h6+table tbody tr:nth-child(5) {
-    background-position: 0px -154px
+    background-position: 0 -154px
 }
 
 .md h6+h6+h6+table tbody tr:nth-child(6) {
-    background-position: 0px -154px
+    background-position: 0 -154px
 }
 
 .md h6+h6+h6+table tbody tr:nth-child(7) {
-    background-position: 0px -124px
+    background-position: 0 -124px
 }
 
 .md h6+h6+h6+table tbody tr:nth-child(8) {
-    background-position: 0px -124px
+    background-position: 0 -124px
 }
 
 .md h6+h6+h6+table tbody tr:nth-child(9) {
-    background-position: 0px -124px
+    background-position: 0 -124px
 }
 
 .md h6+h6+h6+table tbody tr:nth-child(10) {
-    background-position: 0px -154px
+    background-position: 0 -154px
 }
 
 .md h6+h6+h6+table tbody tr:nth-child(11) {
-    background-position: 0px -124px
+    background-position: 0 -124px
 }
 
 .md h6+h6+h6+table tbody tr:nth-child(12) {
-    background-position: 0px -154px
+    background-position: 0 -154px
 }
 
 .md h6+h6+h6+table tbody tr:nth-child(13) {
-    background-position: 0px -154px
+    background-position: 0 -154px
 }
 
 html,.res-nightmode html {
@@ -207,7 +207,7 @@ span.userkarma a {
 }
 
 #RESAccountSwitcherIcon {
-    background-position: 0px -45px!important;
+    background-position: 0 -45px!important;
     margin: 10px 0 0 4px
 }
 
@@ -270,12 +270,12 @@ a.pref-lang,form.logout a {
 }
 
 .content .spacer {
-    margin-bottom: 0px!important
+    margin-bottom: 0!important
 }
 
 .content .linklisting .thing {
     margin: 0;
-    padding: 0px
+    padding: 0
 }
 
 .link {
@@ -330,11 +330,11 @@ body>.content .link .rank,.rank-spacer {
 }
 
 .arrow.up {
-    background-position: -87px 0px!important
+    background-position: -87px 0!important
 }
 
 .arrow.upmod {
-    background-position: -107px 0px!important
+    background-position: -107px 0!important
 }
 
 .link .score.likes {
@@ -653,7 +653,7 @@ html.res-commentBoxes .comment {
 
 .side {
     margin-top: 40px;
-    margin-left: 0px!important;
+    margin-left: 0!important;
     background: #f6f6f6
 }
 
@@ -1967,411 +1967,411 @@ a[href$="/AFC"]::before {
 }
 
 .flair-blue-jersey[title="1"]:before,.flair-black-jersey[title="1"]:before,.flair-white-jersey[title="1"]:before {
-    background-position: 0px 0px!important
+    background-position: 0 0!important
 }
 
 .titlebox .tagline .flairselector .flair-black-jersey[title="1"]:before {
-    background-position: 0px 0px!important
+    background-position: 0 0!important
 }
 
 .flair-blue-jersey[title="2"]:before,.flair-black-jersey[title="2"]:before,.flair-white-jersey[title="2"]:before {
-    background-position: 0px -30px!important
+    background-position: 0 -30px!important
 }
 
 .flair-blue-jersey[title="3"]:before,.flair-black-jersey[title="3"]:before,.flair-white-jersey[title="3"]:before {
-    background-position: 0px -60px!important
+    background-position: 0 -60px!important
 }
 
 .flair-blue-jersey[title="4"]:before,.flair-black-jersey[title="4"]:before,.flair-white-jersey[title="4"]:before {
-    background-position: 0px -90px!important
+    background-position: 0 -90px!important
 }
 
 .flair-blue-jersey[title="5"]:before,.flair-black-jersey[title="5"]:before,.flair-white-jersey[title="5"]:before {
-    background-position: 0px -120px!important
+    background-position: 0 -120px!important
 }
 
 .flair-blue-jersey[title="6"]:before,.flair-black-jersey[title="6"]:before,.flair-white-jersey[title="6"]:before {
-    background-position: 0px -150px!important
+    background-position: 0 -150px!important
 }
 
 .flair-blue-jersey[title="7"]:before,.flair-black-jersey[title="7"]:before,.flair-white-jersey[title="7"]:before {
-    background-position: 0px -180px!important
+    background-position: 0 -180px!important
 }
 
 .flair-blue-jersey[title="8"]:before,.flair-black-jersey[title="8"]:before,.flair-white-jersey[title="8"]:before {
-    background-position: 0px -210px!important
+    background-position: 0 -210px!important
 }
 
 .flair-blue-jersey[title="9"]:before,.flair-black-jersey[title="9"]:before,.flair-white-jersey[title="9"]:before {
-    background-position: 0px -240px!important
+    background-position: 0 -240px!important
 }
 
 .flair-blue-jersey[title="10"]:before,.flair-black-jersey[title="10"]:before,.flair-white-jersey[title="10"]:before {
-    background-position: 0px -270px!important
+    background-position: 0 -270px!important
 }
 
 .flair-blue-jersey[title="11"]:before,.flair-black-jersey[title="11"]:before,.flair-white-jersey[title="11"]:before {
-    background-position: 0px -300px!important
+    background-position: 0 -300px!important
 }
 
 .flair-blue-jersey[title="12"]:before,.flair-black-jersey[title="12"]:before,.flair-white-jersey[title="12"]:before {
-    background-position: 0px -330px!important
+    background-position: 0 -330px!important
 }
 
 .flair-blue-jersey[title="13"]:before,.flair-black-jersey[title="13"]:before,.flair-white-jersey[title="13"]:before {
-    background-position: 0px -360px!important
+    background-position: 0 -360px!important
 }
 
 .flair-blue-jersey[title="14"]:before,.flair-black-jersey[title="14"]:before,.flair-white-jersey[title="14"]:before {
-    background-position: 0px -390px!important
+    background-position: 0 -390px!important
 }
 
 .flair-blue-jersey[title="15"]:before,.flair-black-jersey[title="15"]:before,.flair-white-jersey[title="15"]:before {
-    background-position: 0px -420px!important
+    background-position: 0 -420px!important
 }
 
 .flair-blue-jersey[title="16"]:before,.flair-black-jersey[title="16"]:before,.flair-white-jersey[title="16"]:before {
-    background-position: 0px -450px!important
+    background-position: 0 -450px!important
 }
 
 .flair-blue-jersey[title="17"]:before,.flair-black-jersey[title="17"]:before,.flair-white-jersey[title="17"]:before {
-    background-position: 0px -480px!important
+    background-position: 0 -480px!important
 }
 
 .flair-blue-jersey[title="18"]:before,.flair-black-jersey[title="18"]:before,.flair-white-jersey[title="18"]:before {
-    background-position: 0px -510px!important
+    background-position: 0 -510px!important
 }
 
 .flair-blue-jersey[title="19"]:before,.flair-black-jersey[title="19"]:before,.flair-white-jersey[title="19"]:before {
-    background-position: 0px -540px!important
+    background-position: 0 -540px!important
 }
 
 .flair-blue-jersey[title="20"]:before,.flair-black-jersey[title="20"]:before,.flair-white-jersey[title="20"]:before {
-    background-position: 0px -570px!important
+    background-position: 0 -570px!important
 }
 
 .flair-blue-jersey[title="21"]:before,.flair-black-jersey[title="21"]:before,.flair-white-jersey[title="21"]:before {
-    background-position: 0px -600px!important
+    background-position: 0 -600px!important
 }
 
 .flair-blue-jersey[title="22"]:before,.flair-black-jersey[title="22"]:before,.flair-white-jersey[title="22"]:before {
-    background-position: 0px -630px!important
+    background-position: 0 -630px!important
 }
 
 .flair-blue-jersey[title="23"]:before,.flair-black-jersey[title="23"]:before,.flair-white-jersey[title="23"]:before {
-    background-position: 0px -660px!important
+    background-position: 0 -660px!important
 }
 
 .flair-blue-jersey[title="24"]:before,.flair-black-jersey[title="24"]:before,.flair-white-jersey[title="24"]:before {
-    background-position: 0px -690px!important
+    background-position: 0 -690px!important
 }
 
 .flair-blue-jersey[title="25"]:before,.flair-black-jersey[title="25"]:before,.flair-white-jersey[title="25"]:before {
-    background-position: 0px -720px!important
+    background-position: 0 -720px!important
 }
 
 .flair-blue-jersey[title="26"]:before,.flair-black-jersey[title="26"]:before,.flair-white-jersey[title="26"]:before {
-    background-position: 0px -750px!important
+    background-position: 0 -750px!important
 }
 
 .flair-blue-jersey[title="27"]:before,.flair-black-jersey[title="27"]:before,.flair-white-jersey[title="27"]:before {
-    background-position: 0px -780px!important
+    background-position: 0 -780px!important
 }
 
 .flair-blue-jersey[title="28"]:before,.flair-black-jersey[title="28"]:before,.flair-white-jersey[title="28"]:before {
-    background-position: 0px -810px!important
+    background-position: 0 -810px!important
 }
 
 .flair-blue-jersey[title="29"]:before,.flair-black-jersey[title="29"]:before,.flair-white-jersey[title="29"]:before {
-    background-position: 0px -840px!important
+    background-position: 0 -840px!important
 }
 
 .flair-blue-jersey[title="30"]:before,.flair-black-jersey[title="30"]:before,.flair-white-jersey[title="30"]:before {
-    background-position: 0px -870px!important
+    background-position: 0 -870px!important
 }
 
 .flair-blue-jersey[title="31"]:before,.flair-black-jersey[title="31"]:before,.flair-white-jersey[title="31"]:before {
-    background-position: 0px -900px!important
+    background-position: 0 -900px!important
 }
 
 .flair-blue-jersey[title="32"]:before,.flair-black-jersey[title="32"]:before,.flair-white-jersey[title="32"]:before {
-    background-position: 0px -930px!important
+    background-position: 0 -930px!important
 }
 
 .flair-blue-jersey[title="33"]:before,.flair-black-jersey[title="33"]:before,.flair-white-jersey[title="33"]:before {
-    background-position: 0px -960px!important
+    background-position: 0 -960px!important
 }
 
 .flair-blue-jersey[title="34"]:before,.flair-black-jersey[title="34"]:before,.flair-white-jersey[title="34"]:before {
-    background-position: 0px -990px!important
+    background-position: 0 -990px!important
 }
 
 .flair-blue-jersey[title="35"]:before,.flair-black-jersey[title="35"]:before,.flair-white-jersey[title="35"]:before {
-    background-position: 0px -1020px!important
+    background-position: 0 -1020px!important
 }
 
 .flair-blue-jersey[title="36"]:before,.flair-black-jersey[title="36"]:before,.flair-white-jersey[title="36"]:before {
-    background-position: 0px -1050px!important
+    background-position: 0 -1050px!important
 }
 
 .flair-blue-jersey[title="37"]:before,.flair-black-jersey[title="37"]:before,.flair-white-jersey[title="37"]:before {
-    background-position: 0px -1080px!important
+    background-position: 0 -1080px!important
 }
 
 .flair-blue-jersey[title="38"]:before,.flair-black-jersey[title="38"]:before,.flair-white-jersey[title="38"]:before {
-    background-position: 0px -1110px!important
+    background-position: 0 -1110px!important
 }
 
 .flair-blue-jersey[title="39"]:before,.flair-black-jersey[title="39"]:before,.flair-white-jersey[title="39"]:before {
-    background-position: 0px -1140px!important
+    background-position: 0 -1140px!important
 }
 
 .flair-blue-jersey[title="40"]:before,.flair-black-jersey[title="40"]:before,.flair-white-jersey[title="40"]:before {
-    background-position: 0px -1170px!important
+    background-position: 0 -1170px!important
 }
 
 .flair-blue-jersey[title="41"]:before,.flair-black-jersey[title="41"]:before,.flair-white-jersey[title="41"]:before {
-    background-position: 0px -1200px!important
+    background-position: 0 -1200px!important
 }
 
 .flair-blue-jersey[title="42"]:before,.flair-black-jersey[title="42"]:before,.flair-white-jersey[title="42"]:before {
-    background-position: 0px -1230px!important
+    background-position: 0 -1230px!important
 }
 
 .flair-blue-jersey[title="43"]:before,.flair-black-jersey[title="43"]:before,.flair-white-jersey[title="43"]:before {
-    background-position: 0px -1260px!important
+    background-position: 0 -1260px!important
 }
 
 .flair-blue-jersey[title="44"]:before,.flair-black-jersey[title="44"]:before,.flair-white-jersey[title="44"]:before {
-    background-position: 0px -1290px!important
+    background-position: 0 -1290px!important
 }
 
 .flair-blue-jersey[title="45"]:before,.flair-black-jersey[title="45"]:before,.flair-white-jersey[title="45"]:before {
-    background-position: 0px -1320px!important
+    background-position: 0 -1320px!important
 }
 
 .flair-blue-jersey[title="46"]:before,.flair-black-jersey[title="46"]:before,.flair-white-jersey[title="46"]:before {
-    background-position: 0px -1350px!important
+    background-position: 0 -1350px!important
 }
 
 .flair-blue-jersey[title="47"]:before,.flair-black-jersey[title="47"]:before,.flair-white-jersey[title="47"]:before {
-    background-position: 0px -1380px!important
+    background-position: 0 -1380px!important
 }
 
 .flair-blue-jersey[title="48"]:before,.flair-black-jersey[title="48"]:before,.flair-white-jersey[title="48"]:before {
-    background-position: 0px -1410px!important
+    background-position: 0 -1410px!important
 }
 
 .flair-blue-jersey[title="49"]:before,.flair-black-jersey[title="49"]:before,.flair-white-jersey[title="49"]:before {
-    background-position: 0px -1440px!important
+    background-position: 0 -1440px!important
 }
 
 .flair-blue-jersey[title="50"]:before,.flair-black-jersey[title="50"]:before,.flair-white-jersey[title="50"]:before {
-    background-position: 0px -1470px!important
+    background-position: 0 -1470px!important
 }
 
 .flair-blue-jersey[title="51"]:before,.flair-black-jersey[title="51"]:before,.flair-white-jersey[title="51"]:before {
-    background-position: 0px -1500px!important
+    background-position: 0 -1500px!important
 }
 
 .flair-blue-jersey[title="52"]:before,.flair-black-jersey[title="52"]:before,.flair-white-jersey[title="52"]:before {
-    background-position: 0px -1530px!important
+    background-position: 0 -1530px!important
 }
 
 .flair-blue-jersey[title="53"]:before,.flair-black-jersey[title="53"]:before,.flair-white-jersey[title="53"]:before {
-    background-position: 0px -1560px!important
+    background-position: 0 -1560px!important
 }
 
 .flair-blue-jersey[title="54"]:before,.flair-black-jersey[title="54"]:before,.flair-white-jersey[title="54"]:before {
-    background-position: 0px -1590px!important
+    background-position: 0 -1590px!important
 }
 
 .flair-blue-jersey[title="55"]:before,.flair-black-jersey[title="55"]:before,.flair-white-jersey[title="55"]:before {
-    background-position: 0px -1620px!important
+    background-position: 0 -1620px!important
 }
 
 .flair-blue-jersey[title="56"]:before,.flair-black-jersey[title="56"]:before,.flair-white-jersey[title="56"]:before {
-    background-position: 0px -1650px!important
+    background-position: 0 -1650px!important
 }
 
 .flair-blue-jersey[title="57"]:before,.flair-black-jersey[title="57"]:before,.flair-white-jersey[title="57"]:before {
-    background-position: 0px -1680px!important
+    background-position: 0 -1680px!important
 }
 
 .flair-blue-jersey[title="58"]:before,.flair-black-jersey[title="58"]:before,.flair-white-jersey[title="58"]:before {
-    background-position: 0px -1710px!important
+    background-position: 0 -1710px!important
 }
 
 .flair-blue-jersey[title="59"]:before,.flair-black-jersey[title="59"]:before,.flair-white-jersey[title="59"]:before {
-    background-position: 0px -1740px!important
+    background-position: 0 -1740px!important
 }
 
 .flair-blue-jersey[title="60"]:before,.flair-black-jersey[title="60"]:before,.flair-white-jersey[title="60"]:before {
-    background-position: 0px -1770px!important
+    background-position: 0 -1770px!important
 }
 
 .flair-blue-jersey[title="61"]:before,.flair-black-jersey[title="61"]:before,.flair-white-jersey[title="61"]:before {
-    background-position: 0px -1800px!important
+    background-position: 0 -1800px!important
 }
 
 .flair-blue-jersey[title="62"]:before,.flair-black-jersey[title="62"]:before,.flair-white-jersey[title="62"]:before {
-    background-position: 0px -1830px!important
+    background-position: 0 -1830px!important
 }
 
 .flair-blue-jersey[title="63"]:before,.flair-black-jersey[title="63"]:before,.flair-white-jersey[title="63"]:before {
-    background-position: 0px -1860px!important
+    background-position: 0 -1860px!important
 }
 
 .flair-blue-jersey[title="64"]:before,.flair-black-jersey[title="64"]:before,.flair-white-jersey[title="64"]:before {
-    background-position: 0px -1890px!important
+    background-position: 0 -1890px!important
 }
 
 .flair-blue-jersey[title="65"]:before,.flair-black-jersey[title="65"]:before,.flair-white-jersey[title="65"]:before {
-    background-position: 0px -1920px!important
+    background-position: 0 -1920px!important
 }
 
 .flair-blue-jersey[title="66"]:before,.flair-black-jersey[title="66"]:before,.flair-white-jersey[title="66"]:before {
-    background-position: 0px -1950px!important
+    background-position: 0 -1950px!important
 }
 
 .flair-blue-jersey[title="67"]:before,.flair-black-jersey[title="67"]:before,.flair-white-jersey[title="67"]:before {
-    background-position: 0px -1980px!important
+    background-position: 0 -1980px!important
 }
 
 .flair-blue-jersey[title="68"]:before,.flair-black-jersey[title="68"]:before,.flair-white-jersey[title="68"]:before {
-    background-position: 0px -2010px!important
+    background-position: 0 -2010px!important
 }
 
 .flair-blue-jersey[title="69"]:before,.flair-black-jersey[title="69"]:before,.flair-white-jersey[title="69"]:before {
-    background-position: 0px -2040px!important
+    background-position: 0 -2040px!important
 }
 
 .flair-blue-jersey[title="70"]:before,.flair-black-jersey[title="70"]:before,.flair-white-jersey[title="70"]:before {
-    background-position: 0px -2070px!important
+    background-position: 0 -2070px!important
 }
 
 .flair-blue-jersey[title="71"]:before,.flair-black-jersey[title="71"]:before,.flair-white-jersey[title="71"]:before {
-    background-position: 0px -2100px!important
+    background-position: 0 -2100px!important
 }
 
 .flair-blue-jersey[title="72"]:before,.flair-black-jersey[title="72"]:before,.flair-white-jersey[title="72"]:before {
-    background-position: 0px -2130px!important
+    background-position: 0 -2130px!important
 }
 
 .flair-blue-jersey[title="73"]:before,.flair-black-jersey[title="73"]:before,.flair-white-jersey[title="73"]:before {
-    background-position: 0px -2160px!important
+    background-position: 0 -2160px!important
 }
 
 .flair-blue-jersey[title="74"]:before,.flair-black-jersey[title="74"]:before,.flair-white-jersey[title="74"]:before {
-    background-position: 0px -2190px!important
+    background-position: 0 -2190px!important
 }
 
 .flair-blue-jersey[title="75"]:before,.flair-black-jersey[title="75"]:before,.flair-white-jersey[title="75"]:before {
-    background-position: 0px -2220px!important
+    background-position: 0 -2220px!important
 }
 
 .flair-blue-jersey[title="76"]:before,.flair-black-jersey[title="76"]:before,.flair-white-jersey[title="76"]:before {
-    background-position: 0px -2250px!important
+    background-position: 0 -2250px!important
 }
 
 .flair-blue-jersey[title="77"]:before,.flair-black-jersey[title="77"]:before,.flair-white-jersey[title="77"]:before {
-    background-position: 0px -2280px!important
+    background-position: 0 -2280px!important
 }
 
 .flair-blue-jersey[title="78"]:before,.flair-black-jersey[title="78"]:before,.flair-white-jersey[title="78"]:before {
-    background-position: 0px -2310px!important
+    background-position: 0 -2310px!important
 }
 
 .flair-blue-jersey[title="79"]:before,.flair-black-jersey[title="79"]:before,.flair-white-jersey[title="79"]:before {
-    background-position: 0px -2340px!important
+    background-position: 0 -2340px!important
 }
 
 .flair-blue-jersey[title="80"]:before,.flair-black-jersey[title="80"]:before,.flair-white-jersey[title="80"]:before {
-    background-position: 0px -2370px!important
+    background-position: 0 -2370px!important
 }
 
 .flair-blue-jersey[title="81"]:before,.flair-black-jersey[title="81"]:before,.flair-white-jersey[title="81"]:before {
-    background-position: 0px -2400px!important
+    background-position: 0 -2400px!important
 }
 
 .flair-blue-jersey[title="82"]:before,.flair-black-jersey[title="82"]:before,.flair-white-jersey[title="82"]:before {
-    background-position: 0px -2430px!important
+    background-position: 0 -2430px!important
 }
 
 .flair-blue-jersey[title="83"]:before,.flair-black-jersey[title="83"]:before,.flair-white-jersey[title="83"]:before {
-    background-position: 0px -2460px!important
+    background-position: 0 -2460px!important
 }
 
 .flair-blue-jersey[title="84"]:before,.flair-black-jersey[title="84"]:before,.flair-white-jersey[title="84"]:before {
-    background-position: 0px -2490px!important
+    background-position: 0 -2490px!important
 }
 
 .flair-blue-jersey[title="85"]:before,.flair-black-jersey[title="85"]:before,.flair-white-jersey[title="85"]:before {
-    background-position: 0px -2520px!important
+    background-position: 0 -2520px!important
 }
 
 .flair-blue-jersey[title="86"]:before,.flair-black-jersey[title="86"]:before,.flair-white-jersey[title="86"]:before {
-    background-position: 0px -2550px!important
+    background-position: 0 -2550px!important
 }
 
 .flair-blue-jersey[title="87"]:before,.flair-black-jersey[title="87"]:before,.flair-white-jersey[title="87"]:before {
-    background-position: 0px -2580px!important
+    background-position: 0 -2580px!important
 }
 
 .flair-blue-jersey[title="88"]:before,.flair-black-jersey[title="88"]:before,.flair-white-jersey[title="88"]:before {
-    background-position: 0px -2610px!important
+    background-position: 0 -2610px!important
 }
 
 .flair-blue-jersey[title="89"]:before,.flair-black-jersey[title="89"]:before,.flair-white-jersey[title="89"]:before {
-    background-position: 0px -2640px!important
+    background-position: 0 -2640px!important
 }
 
 .flair-blue-jersey[title="90"]:before,.flair-black-jersey[title="90"]:before,.flair-white-jersey[title="90"]:before {
-    background-position: 0px -2670px!important
+    background-position: 0 -2670px!important
 }
 
 .flair-blue-jersey[title="91"]:before,.flair-black-jersey[title="91"]:before,.flair-white-jersey[title="91"]:before {
-    background-position: 0px -2700px!important
+    background-position: 0 -2700px!important
 }
 
 .flair-blue-jersey[title="92"]:before,.flair-black-jersey[title="92"]:before,.flair-white-jersey[title="92"]:before {
-    background-position: 0px -2730px!important
+    background-position: 0 -2730px!important
 }
 
 .flair-blue-jersey[title="93"]:before,.flair-black-jersey[title="93"]:before,.flair-white-jersey[title="93"]:before {
-    background-position: 0px -2760px!important
+    background-position: 0 -2760px!important
 }
 
 .flair-blue-jersey[title="94"]:before,.flair-black-jersey[title="94"]:before,.flair-white-jersey[title="94"]:before {
-    background-position: 0px -2790px!important
+    background-position: 0 -2790px!important
 }
 
 .flair-blue-jersey[title="95"]:before,.flair-black-jersey[title="95"]:before,.flair-white-jersey[title="95"]:before {
-    background-position: 0px -2820px!important
+    background-position: 0 -2820px!important
 }
 
 .flair-blue-jersey[title="96"]:before,.flair-black-jersey[title="96"]:before,.flair-white-jersey[title="96"]:before {
-    background-position: 0px -2850px!important
+    background-position: 0 -2850px!important
 }
 
 .flair-blue-jersey[title="97"]:before,.flair-black-jersey[title="97"]:before,.flair-white-jersey[title="97"]:before {
-    background-position: 0px -2880px!important
+    background-position: 0 -2880px!important
 }
 
 .flair-blue-jersey[title="98"]:before,.flair-black-jersey[title="98"]:before,.flair-white-jersey[title="98"]:before {
-    background-position: 0px -2910px!important
+    background-position: 0 -2910px!important
 }
 
 .flair-blue-jersey[title="99"]:before,.flair-black-jersey[title="99"]:before,.flair-white-jersey[title="99"]:before {
-    background-position: 0px -2940px!important
+    background-position: 0 -2940px!important
 }
 
 .flair-blue-jersey[title="00"]:before,.flair-black-jersey[title="00"]:before,.flair-white-jersey[title="00"]:before {
-    background-position: 0px -2970px!important
+    background-position: 0 -2970px!important
 }
 
 .flair-blue-jersey[title="0"]:before,.flair-black-jersey[title="0"]:before,.flair-blue-jersey[title="0"]:before {
-    background-position: 0px -2970px!important
+    background-position: 0 -2970px!important
 }
 
 .flair-bojang1:before,.flair-bojang2:before,.flair-bojang3:before,.flair-kalil-bear:before,.flair-tolbert-dance:before,.flair-cheerwine-can:before,.flair-towel-cam:before,.flair-jerry1:before,.flair-two-states:before,.flair-cheerwine-logo:before,.flair-supercam1:before,.flair-riverboat-ron:before,.flair-aunt-thor:before,.flair-cook-out:before,.flair-old-logo:before,.flair-bojang4:before,.flair-keeppounding:before,.flair-boberry:before,.flair-first-down:before,.flair-superpanthers:before,.flair-jerry2:before,.flair-mattryan:before,.flair-cam1:before,.flair-kalil1:before,.flair-cam2:before,.flair-cam3:before,.flair-davis1:before,.flair-davis2:before,.flair-actual-panther:before,.flair-topcats:before,.flair-olsen1:before,.flair-olsen2:before,.flair-benji1:before,.flair-dub-trub:before,.flair-luke1:before,.flair-luke2:before,.flair-bojang5:before,.flair-cam4:before,.flair-div-champs:before,.flair-supercam2:before,.flair-olsen3:before,.flair-stewart1:before,.flair-davis3:before,.flair-luke3:before,.flair-olsen4:before,.flair-drewraff:before,.flair-gross1:before,.flair-purr:before {
@@ -2399,7 +2399,7 @@ a[href$="/AFC"]::before {
 }
 
 .flair-bojang1:before {
-    background-position: 0 0px;
+    background-position: 0 0;
     width: 70px!important
 }
 
@@ -2717,23 +2717,23 @@ div.side .md h6+h1,div.side .md h4+h1 {
     border-collapse: collapse;
     margin: auto;
     font-family: Lato,Futura,"Franklin Gothic Medium",Verdana,"Helvetica Neue",Helvetica,Arial,sans-serif;
-    -webkit-box-shadow: 0px 0px 1px rgba(0,136,206,1);
-    -moz-box-shadow: 0px 1px 0px rgba(0,136,206,1);
-    box-shadow: 0px 0px 1px rgba(0,136,206,1)
+    -webkit-box-shadow: 0 0 1px rgba(0,136,206,1);
+    -moz-box-shadow: 0 1px 0 rgba(0,136,206,1);
+    box-shadow: 0 0 1px rgba(0,136,206,1)
 }
 
 .md h6+h6+h6+table tr {
     height: 25px;
     background: url("//b.thumbs.redditmedia.com/H80IUJYLl_RCeCmcI1nItRs5QBBZomi5oTAhNtmFUng.png") no-repeat;
     background-size: 290px;
-    background-position: 0px -93px;
+    background-position: 0 -93px;
     float: left;
     width: 290px;
     border-bottom: 1px solid white
 }
 
 .md h6+h6+h6+table tr:nth-child(even) {
-    background-position: 0px -62px
+    background-position: 0 -62px
 }
 
 .md h6+h6+h6+table th {
@@ -2748,7 +2748,7 @@ div.side .md h6+h1,div.side .md h4+h1 {
 }
 
 .md h6+h6+h6+table tbody tr:last-child {
-    background-position: 0px -246px
+    background-position: 0 -246px
 }
 
 .md h6+h6+h6+table td,.md h6+h6+h6+table tr:nth-child(12) td:nth-child(4) {
@@ -2785,7 +2785,7 @@ div.side .md h6+h1,div.side .md h4+h1 {
 }
 
 .md td a[href$="/r/falcons"] {
-    background-position: 0px -6px!important
+    background-position: 0 -6px!important
 }
 
 .md td a[href$="/r/buccaneers"] {
@@ -2797,7 +2797,7 @@ div.side .md h6+h1,div.side .md h4+h1 {
 }
 
 .md td a[href$="/r/azcardinals"] {
-    background-position: 0px -75px!important
+    background-position: 0 -75px!important
 }
 
 .md td a[href$="/r/49ers"] {
@@ -2837,7 +2837,7 @@ div.side .md h6+h1,div.side .md h4+h1 {
 }
 
 .md td a[href$="/r/redskins"] {
-    background-position: 0px -1925px!important
+    background-position: 0 -1925px!important
 }
 
 .md td a[href$="/r/steelers"] {
@@ -2885,11 +2885,11 @@ div.side .md h6+h1,div.side .md h4+h1 {
 }
 
 .md td a[href$="/r/tennesseetitans"] {
-    background-position: 0px -1872px!important
+    background-position: 0 -1872px!important
 }
 
 .md td a[href$="/r/denverbroncos"] {
-    background-position: 0px -548px!important
+    background-position: 0 -548px!important
 }
 
 .md td a[href$="/r/kansascitychiefs"] {
@@ -2909,7 +2909,7 @@ div.side .md h6+h1,div.side .md h4+h1 {
     background-image: url("//b.thumbs.redditmedia.com/_pU8Q_Db280R_SZg1fDFp3TQgqrj5j6LxpOXhtEQlYQ.png");
     background-repeat: no-repeat;
     background-size: 50px 250px;
-    background-position: 0px 0px;
+    background-position: 0 0;
     height: 22px;
     width: 35px;
     margin-top: -4px!important
@@ -3267,7 +3267,7 @@ body .thing .tagline .author[href$="/user/carolina_panthers"] {
 
 body .thing .tagline .author[href$="/user/carolina_panthers"]:after {
     content: " official account";
-    font-size: 0px;
+    font-size: 0;
     color: #0088ce;
     -webkit-transition: .7s!important;
     -moz-transition: .7s!important;
@@ -3298,7 +3298,7 @@ body .thing .tagline .author[href$="/user/BananaGooP"] {
 
 body .thing .tagline .author[href$="/user/BananaGooP"]:after {
     content: " for scale";
-    font-size: 0px;
+    font-size: 0;
     color: #0088ce;
     -webkit-transition: .7s!important;
     -moz-transition: .7s!important;
@@ -3329,7 +3329,7 @@ body .thing .tagline .author[href$="/user/JCoxRocks"] {
 
 body .thing .tagline .author[href$="/user/JCoxRocks"]:after {
     content: ": Boss Man";
-    font-size: 0px;
+    font-size: 0;
     color: #fff;
     -webkit-transition: .7s!important;
     -moz-transition: .7s!important;
@@ -3360,7 +3360,7 @@ body .thing .tagline .author[href$="/user/Heelincal"] {
 
 body .thing .tagline .author[href$="/user/Heelincal"]:after {
     content: "'s mom";
-    font-size: 0px;
+    font-size: 0;
     color: #fff;
     -webkit-transition: .7s!important;
     -moz-transition: .7s!important;
@@ -3391,7 +3391,7 @@ body .thing .tagline .author[href$="/user/appgrad22"] {
 
 body .thing .tagline .author[href$="/user/appgrad22"]:after {
     content: " is here for Heel's mom";
-    font-size: 0px;
+    font-size: 0;
     color: #fff;
     -webkit-transition: .7s!important;
     -moz-transition: .7s!important;
@@ -3422,7 +3422,7 @@ body .thing .tagline .author[href$="/user/Extric"] {
 
 body .thing .tagline .author[href$="/user/Extric"]:after {
     content: ": CSS Master ";
-    font-size: 0px;
+    font-size: 0;
     color: #0088ce;
     -webkit-transition: .7s!important;
     -moz-transition: .7s!important;
@@ -3453,7 +3453,7 @@ body .thing .tagline .author[href$="/user/NAS89"] {
 
 body .thing .tagline .author[href$="/user/NAS89"]:after {
     content: " is programming robo-TD58";
-    font-size: 0px;
+    font-size: 0;
     color: #fff;
     -webkit-transition: .7s!important;
     -moz-transition: .7s!important;
@@ -3484,7 +3484,7 @@ body .thing .tagline .author[href$="/user/that_guy_you_kno"] {
 
 body .thing .tagline .author[href$="/user/that_guy_you_kno"]:after {
     content: ", Who? Me?";
-    font-size: 0px;
+    font-size: 0;
     color: #fff;
     -webkit-transition: .7s!important;
     -moz-transition: .7s!important;
@@ -3515,7 +3515,7 @@ body .thing .tagline .author[href$="/user/the-horace"] {
 
 body .thing .tagline .author[href$="/user/the-horace"]:after {
     content: ": M.I.A please report all sightings";
-    font-size: 0px;
+    font-size: 0;
     color: #0088ce;
     -webkit-transition: .7s!important;
     -moz-transition: .7s!important;
@@ -3591,12 +3591,12 @@ html.res-nightmode div.side table td a[href$="/NFLN"] {
 }
 
 .res-nightmode .arrow.up {
-    background-position: -87px 0px!important;
+    background-position: -87px 0!important;
     background-image: url("//b.thumbs.redditmedia.com/B4oso0NuYpHoOBw3rF1fWnabeOMbmZQHpUJlc8xq6UA.png")!important
 }
 
 .res-nightmode .arrow.upmod {
-    background-position: -107px 0px!important;
+    background-position: -107px 0!important;
     background-image: url("//b.thumbs.redditmedia.com/B4oso0NuYpHoOBw3rF1fWnabeOMbmZQHpUJlc8xq6UA.png")!important
 }
 
